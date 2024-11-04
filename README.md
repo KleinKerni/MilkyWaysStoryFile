@@ -10,5 +10,7 @@ example:
 
 Then you only change The part "Oh.. what!" to whatever you think is right ^_^
 
+If you find sentences with strings encapsulated in || signs, for example |LastUsedCharName3rdPer| , this is a variable and |LastUsedCharName3rdPer| referes to the last used 3rd person character used. (Usually Kyra the main character)
+
 only change the actual text to write! 
 (Otherwise i am not able to insert it back into the game at the right position)
