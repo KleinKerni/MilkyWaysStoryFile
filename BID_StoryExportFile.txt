@@ -3792,7 +3792,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 04.02.2024 14:20:07_16²MainText²We arrived at the development office. As you can see, the transport hover platform has delivered the last parts for the device.
 04.02.2024 14:20:07_17²MainText²Please disembark, and I will set up the device. I already communicated with Luca. She will prepare you for the test while I set up the device.
 04.02.2024 14:20:07_18²MainText²What kind of preparation is needed?
-04.02.2024 14:20:07_19²MainText²Your collar seems to malfunction, I ordered her to fix it. We need data from the collar which is not corrupted.
+04.02.2024 14:20:07_19²MainText²Your collar seems to be malfunctioning, I ordered her to fix it. We need data from the collar which is not corrupted.
 04.02.2024 14:20:07_20²MainText²Oh.. that is.. bad of course... I will go to her and have it checked.
 04.02.2024 14:20:07_21²MainText²..
 04.02.2024 16:25:36_0²MainText²Luca, Nori told me that you need to check my collar.
@@ -3805,7 +3805,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 04.02.2024 16:25:36_7²MainText²Luca, you nearly gave me a heart attack!
 04.02.2024 16:25:36_8²MainText²Please let me help you out of all bondage devices.
 04.02.2024 16:25:36_9²MainText²Good.
-04.02.2024 16:25:36_10²MainText²I am sorry, but I needed to make sure that the other gynoids do not recognized that the collar has been modified by me.
+04.02.2024 16:25:36_10²MainText²I am sorry, but I needed to make sure that the other gynoids do not recognize that the collar has been modified by me.
 04.02.2024 16:25:36_11²MainText²I will alter the collars programming further, to give Nori the data readout she needs. Please lie down for now.
 04.02.2024 16:25:36_12²MainText²Alright.
 04.02.2024 16:25:36_13²MainText²Do not worry, I will not enable the tracer on the collar. Only the data communication protocol.
