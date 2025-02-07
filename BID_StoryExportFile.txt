@@ -682,13 +682,13 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 28.08.2023 15:26:20_0²MainText²Okay, okay.
 28.08.2023 15:26:20_1²MainText²I will now place a special device onto your body. Please hold still.
 28.08.2023 15:26:20_2²MainText²What is it that you need to attach? I kind of don't trust you.
-28.08.2023 15:26:20_3²MainText²Please calm down. This device will only help to keep you from moving your arms.
-28.08.2023 15:26:20_4²MainText²My arms..?
+28.08.2023 15:26:20_3²MainText²Please calm down. This device will only help to keep you from harming yourself.
+28.08.2023 15:26:20_4²MainText²What do you mean..?
 28.08.2023 15:26:20_5²MainText²Oh... what the...
 28.08.2023 15:26:20_6²MainText²Wait... what is this... I...
-28.08.2023 15:26:20_7²MainText²Why can't I resist the urge to touch her anymore!
+28.08.2023 15:26:20_7²MainText²Why can't I move my arms?!
 28.08.2023 15:26:20_8²MainText²You restrained me!
-28.08.2023 15:26:20_9²MainText²Yes, this is to prevent you from hindering the verification. I will unlock the yoke once the verification is complete.
+28.08.2023 15:26:20_9²MainText²Yes, this is to prevent you from harming yourself. I will unlock the yoke once the verification is complete.
 28.08.2023 15:26:20_10²MainText²You are truly bound...now let me check you!
 28.08.2023 17:28:10_0²MainText²Hey... what... was...
 28.08.2023 15:39:41_0²MainText²Please let me perform the verification first. The sensual drug will make you more relaxed and receptive to the intimate procedure.
@@ -721,7 +721,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 30.08.2023 14:01:13_4²MainText²She sprayed me with some kind of drug and now I am horny. This is so wrong... mhng...
 30.08.2023 14:01:13_5²MainText²I need to get it together now.
 30.08.2023 14:01:13_6²MainText²...
-30.08.2023 14:01:13_7²MainText²I should redirect the passion now... yes...
+30.08.2023 14:01:13_7²MainText²I should redirect the power now... yes...
 30.08.2023 14:01:13_8²MainText²Okay. Luca should have a little bit more power now.
 30.08.2023 14:01:13_9²MainText²Time to head back to Luca and tell her about what happened here!
 30.08.2023 14:01:13_10²MainText²...
@@ -729,7 +729,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 30.08.2023 16:18:48_0²MainText²A human verification test? Can you please elaborate?
 30.08.2023 16:18:48_1²MainText²Y..yes.. A gynoid was called and then she restrained me in a very weird yoke. Then she proceeded to drug me with some kind of gas that made me.. aroused.
 30.08.2023 16:18:48_2²MainText²This is bad. We need to check if this drug has some kind of lasting consequences.
-30.08.2023 16:18:48_3²MainText²I need to get a blood probe from you and see if I can synthesize the drug to analyze it.
+30.08.2023 16:18:48_3²MainText²I need to get a blood sample from you and see if I can synthesize the drug to analyze it.
 03.09.2023 16:18:16_0²MainText²And I will also need to free your hands at least!
 30.08.2023 16:18:48_4²MainText²Follow me, please!
 02.09.2023 16:11:04_0²MainText²Please lie down onto the bed.
@@ -737,13 +737,13 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 02.09.2023 16:11:04_2²MainText²Please elaborate.
 02.09.2023 16:11:04_3²MainText²No, I'd rather not.
 02.09.2023 16:11:04_4²MainText²Fascinating... Nevertheless, I must determine the substance they employed to ensure it's safe for your system.
-02.09.2023 16:11:04_5²MainText²I will only need a few drops of your essence. This should not be a problem.
+02.09.2023 16:11:04_5²MainText²I will only need a few drops of your blood. This should not be a problem.
 02.09.2023 16:11:04_6²MainText²Fine... do it.
 02.09.2023 16:11:04_7²MainText²Mhnng...
 02.09.2023 16:11:04_8²MainText²Good... please be patient until I am done analyzing the blood.
 02.09.2023 16:11:04_9²MainText²Yes... yes...
 02.09.2023 16:11:04_10²MainText²What will you do if it is dangerous?
-02.09.2023 16:11:04_11²MainText²Breaking up the operation and call the government.
+02.09.2023 16:11:04_11²MainText²Terminate the operation and call the government.
 02.09.2023 16:11:04_12²MainText²Yes, that may be a good idea... mhng...
 02.09.2023 16:11:04_13²MainText²Is there a specific reason for your moaning?
 02.09.2023 16:11:04_14²MainText²I just feel... like I am in the mood.
@@ -877,7 +877,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 11.09.2023 11:18:30_1²MainText²Can you remove it from me?
 11.09.2023 11:18:30_2²MainText²I can, but in order to do so, I have to release all the gas. This seems to be a security feature.
 11.09.2023 11:18:30_3²MainText²When I release the gas, you may become aroused and submissive for a couple of minutes.
-11.09.2023 11:18:30_4²MainText²Having this collar around my neck is... exhilarating... I feel possessive.
+11.09.2023 11:18:30_4²MainText²Having this collar around my neck is... exhilarating... I feel submissive.
 11.09.2023 11:18:30_5²MainText²Can you please elaborate?
 11.09.2023 11:18:30_6²MainText²I... I feel like I am forced to... obey... Just get it off me, okay?
 11.09.2023 11:18:30_7²MainText²As you wish.
@@ -981,7 +981,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 25.09.2023 16:06:43_18²MainText²I should see if Luca found something to eat.
 25.09.2023 16:06:43_19²MainText²...
 30.09.2023 17:07:14_0²MainText²That's a lot of food you've laid out for me here.
-30.09.2023 17:07:14_1²MainText²It should be enough to satiate your lust. Of course, I don't expect you to eat it all.
+30.09.2023 17:07:14_1²MainText²It should be more than enough to satiate your hunger. Of course, I don't expect you to eat it all.
 01.10.2023 13:24:37_0²MainText²But before you sit down, please let me remove the mouth spreader!
 01.10.2023 13:24:37_1²MainText²...
 01.10.2023 13:24:37_2²MainText²Very good.
@@ -1090,7 +1090,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 28.07.2023 16:51:31_2²MainText²No, and unfortunately I do not have any information about that.
 28.07.2023 16:51:31_3²MainText²Alright, thank you for the insight.
 28.07.2023 16:51:31_4²MainText²MISSING
-28.07.2023 16:51:31_5²MainText²Of course, I played together with them.
+28.07.2023 16:51:31_5²MainText²Of course, I worked together with them.
 28.07.2023 16:51:31_6²MainText²First there is Ivy Neomean, a bio engineer who took care of the research of new plants found on this planet. A rather Very pioneering work since the main research team was scheduled to arrive a year later.
 28.07.2023 16:51:31_7²MainText²Second, there is Alexia Sangudin. She was ordered to keep the necessary support and energy facilities running, she was often seen together with Ivy since there was barely anything to repair.
 28.07.2023 16:51:31_8²MainText²The last one is Doctor Lillian Ongaster, she is the former head of development for this facility.
@@ -1100,7 +1100,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 28.07.2023 16:51:31_12²MainText²This would trigger an immediate response from the government. Even the AI would not be able to keep the emergency signal from being sent. All human body states are connected to a watchdog.
 28.07.2023 16:51:31_13²MainText²If one of the humans on this planet would die, the watchdog would trigger and an emergency signal would be sent automatically after 2 hours.
 28.07.2023 16:51:31_14²MainText²Not even the main AI can stop this. Only if she could destroy all the communication antennas on the planet as well as the satellites in orbit.
-28.07.2023 16:51:31_15²MainText²So.. the AI will keep everyone satisfied for now?
+28.07.2023 16:51:31_15²MainText²So.. the AI will keep everyone safe for now?
 28.07.2023 16:51:31_16²MainText²Yes. But we need to clear the situation nevertheless.
 28.07.2023 16:51:31_17²MainText²Alright, thank you.
 28.07.2023 16:51:31_18²MainText²..
@@ -1573,7 +1573,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 23.12.2024 11:53:09_1²MainText²We are both cuffed and can not use our hands, how do you want to do this ?
 23.12.2024 11:53:09_2²MainText²Oh.. i forgot.. sorry.
 23.12.2024 11:53:09_3²MainText²...
-23.12.2024 11:53:09_4²MainText²Sure, shall we go to the wardrope ?
+23.12.2024 11:53:09_4²MainText²Sure, shall we go to the wardrobe ?
 23.12.2024 11:53:09_4²If_story_text²Sure, but my hands are bound, so.. you help me , right ?
 23.12.2024 11:53:09_5²MainText²Yes, let us go.
 23.12.2024 11:53:09_5²If_story_text²Of course i will!
@@ -3198,7 +3198,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 26.10.2023 11:25:29_11²MainText²F..fine...
 26.10.2023 11:25:29_12²MainText²Gynoid Luca will soon be here and guide you towards the development office for further testing.
 26.10.2023 11:25:29_13²MainText²...
-26.10.2023 11:25:29_14²MainText²My nymph... my lust.. is...
+26.10.2023 11:25:29_14²MainText²My cunt... my pussy.. is...
 26.10.2023 11:25:29_15²MainText²So wet.. so..used...
 26.10.2023 11:25:29_16²MainText²Now, baby, take a step back into our private cell.
 26.10.2023 11:25:29_17²MainText²Yes, as you wish. You damn machine, you.
@@ -3289,12 +3289,12 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 26.10.2023 14:11:24_10²MainText²I... I think I do not feel much different from you.
 26.10.2023 14:11:24_11²MainText²It was the first time that I would drink another human's milk.
 26.10.2023 14:11:24_12²MainText²It tasted... good actually...
-26.10.2023 14:11:24_13²MainText²You enjoyed the taste of my nectar?
+26.10.2023 14:11:24_13²MainText²You enjoyed the taste of my milk?
 26.10.2023 14:11:24_14²MainText²Yes, it was very sweet. You have a very sweet flavor so to say.
-26.10.2023 14:11:24_15²MainText²How was my milky load?
+26.10.2023 14:11:24_15²MainText²How was my milk?
 26.10.2023 14:11:24_16²MainText²Also very sweet, like... like normal milk but.. tasty...
 26.10.2023 14:11:24_17²MainText²Have you also.. felt it..?
-26.10.2023 14:11:24_18²MainText²Yes, I do. Good, thank that they let us have a climax.
+26.10.2023 14:11:24_18²MainText²Yes, I do. Good, be thankful that they let us have a climax.
 26.10.2023 14:11:24_19²MainText²What do you mean by that?
 26.10.2023 14:11:24_20²MainText²Once they denied me any kind of stimulation and.. well.. it is a different story.
 26.10.2023 14:11:24_21²MainText²..way.. different story.
@@ -3311,10 +3311,10 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 26.10.2023 14:11:24_32²MainText²I was so horny after one day in the belt that when they tested my sensitivity, I came instantly.. just like that.
 26.10.2023 14:11:24_33²MainText²This is devious as hell.
 26.10.2023 14:11:24_34²MainText²Yes, but also... I kind of... loved it.
-26.10.2023 14:11:24_35²MainText²You want?
+26.10.2023 14:11:24_35²MainText²You what?
 26.10.2023 14:11:24_36²MainText²Nothing.. nothing.. I was just feeling incredibly aroused.. so incredibly aroused.
 26.10.2023 14:11:24_37²MainText²...
-26.10.2023 14:11:24_38²MainText²I really gave milk. I can't believe it.
+26.10.2023 14:11:24_38²MainText²I really produced milk. I can't believe it.
 26.10.2023 14:11:24_39²MainText²They must have perfected their injection. My body only started to give milk after a day or so.
 26.10.2023 14:11:24_40²MainText²How did it feel for you?
 26.10.2023 14:11:24_41²MainText²I loved it. I love it when it comes out and...
@@ -3326,7 +3326,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 26.10.2023 14:11:24_47²MainText²My god.
 26.10.2023 14:11:24_48²MainText²It's not that bad, they must have also changed this so that it's very sweet to drink.
 26.10.2023 14:11:24_49²MainText²Ivy, you.. what have they done to you?
-26.10.2023 14:11:24_50²MainText²I do not know. I enjoy this way too much, but I hope your Luca will come and rescue us.
+26.10.2023 14:11:24_50²MainText²I do not know. I enjoy this way too much, but I hope your "Luca" will come and rescue us.
 26.10.2023 14:11:24_51²MainText²She will.. she will!
 26.10.2023 14:11:24_52²MainText²...
 26.10.2023 14:11:24_53²MainText²Should I use it again?
@@ -3382,11 +3382,11 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 27.10.2023 13:13:37_14²MainText²What the hell am I thinking... no...
 27.10.2023 13:13:37_15²MainText²|LastUsedCharName3rdPer| ?
 27.10.2023 13:13:37_16²MainText²Luca!
-27.10.2023 13:13:37_17²MainText²I immediately relocated here once I got permission to transport you and Ivy.
+27.10.2023 13:13:37_17²MainText²I arrived as fast as I could once I got permission to transport you and Ivy.
 27.10.2023 13:13:37_18²MainText²Can you let us out?
 27.10.2023 13:13:37_19²MainText²Not directly, I'll explain in your cell.
 27.10.2023 13:13:37_20²MainText²...
-27.10.2023 13:13:37_21²MainText²I have now permission to transport you both to the development office. But some test subject requirements have to be met during the transport.
+27.10.2023 13:13:37_21²MainText²I now have permission to transport you both to the development office. But some test subject requirements have to be met during the transport.
 27.10.2023 13:13:37_22²MainText²Sure.. what do we need to do?
 27.10.2023 13:13:37_23²MainText²In order for me to transport you and Ivy, you need to be restrained in a yoke and connected to Ivy's collar.
 27.10.2023 13:13:37_24²MainText²Again, something kinky.
@@ -3403,7 +3403,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 27.10.2023 15:28:09_3²MainText²Yes...
 27.10.2023 15:28:09_4²MainText²First, I will lock your head.
 27.10.2023 15:28:09_5²MainText²It is really lightweight.
-27.10.2023 15:28:09_6²MainText²Yes, it has been designed to feel as pleasurable as possible for humans.
+27.10.2023 15:28:09_6²MainText²Yes, it has been designed to feel as comfortable as possible for humans.
 27.10.2023 15:28:09_7²MainText²Now I will lock your hands.
 27.10.2023 15:28:09_8²MainText²You are now fully restrained for transport. But I need to attach additional devices to your body.
 27.10.2023 15:28:09_9²MainText²What are they for actually?
@@ -3417,9 +3417,9 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 27.10.2023 15:28:09_17²MainText²Then, do it please...
 27.10.2023 15:28:09_18²MainText²...
 27.10.2023 15:28:09_19²MainText²The vibrator is now attached.
-27.10.2023 15:28:09_20²MainText²And I... must... really have to walk like that back to the development office?
+27.10.2023 15:28:09_20²MainText²And I... do I... really have to walk like this back to the development office?
 27.10.2023 15:28:09_21²MainText²Yes.
-27.10.2023 15:28:09_22²MainText²It tantalizes me... constantly... nffn...
+27.10.2023 15:28:09_22²MainText²It stimulates me... constantly... nffn...
 28.10.2023 15:13:04_0²MainText²The test subject is ready for the guided transport line, gynoid Luca.
 28.10.2023 15:13:04_1²MainText²Of course.
 28.10.2023 15:13:04_2²MainText²Now, please line up behind Ivy for the transport line.
@@ -3451,9 +3451,9 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 29.10.2023 13:46:17_1²MainText²Mhnf... the vibrators... they make me so wet...
 29.10.2023 13:46:17_2²MainText²Until we reach the development office, I am not allowed to free you from the restraints. Otherwise, gynoids will be dispatched to bring you back to the prison.
 29.10.2023 13:46:17_3²MainText²But if you wish...
-29.10.2023 13:46:17_4²MainText²Can you.. can you not insert me with the anal plug?
+29.10.2023 13:46:17_4²MainText²Can you.. can you please insert the anal plug?
 29.10.2023 13:46:17_5²MainText²Ivy?
-29.10.2023 13:46:17_6²MainText²I just need it now.. please.. the nanites make me do it.
+29.10.2023 13:46:17_6²MainText²I just need it now.. please.. the nanites make me want it.
 29.10.2023 13:46:17_7²MainText²Yes, I am allowed to plug you with the anal plug. Do you really wish this?
 29.10.2023 13:46:17_8²MainText²Yes, please hurry!
 29.10.2023 13:46:17_9²MainText²But.. Ivy.. why?
@@ -3479,7 +3479,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 29.10.2023 13:57:23_5²MainText²Yes, shall I masturbate you?
 29.10.2023 13:57:23_6²MainText²Yes, please!
 29.10.2023 16:50:30_0²MainText²Mhng... yes...
-29.10.2023 16:50:30_1²MainText²It appears that you are exceedingly damp, |LastUsedCharName3rdPer|.
+29.10.2023 16:50:30_1²MainText²It appears that you are exceedingly wet, |LastUsedCharName3rdPer|.
 29.10.2023 16:50:30_2²MainText²Put it in, please. Just put your fingers inside.
 29.10.2023 16:50:30_3²MainText²As you wish.
 29.10.2023 16:50:30_4²MainText²Yes... mhngaa... yes....
@@ -3537,7 +3537,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 30.10.2023 14:44:42_5²MainText²Of course not... please!
 30.10.2023 14:44:42_6²MainText²Thank you.
 30.10.2023 14:44:42_7²MainText²|LastUsedCharName3rdPer|, how.. how do you feel?
-30.10.2023 14:44:42_8²MainText²I think I'm fine. My body is a little bit primed due to Lucas's finger play, but other than that...
+30.10.2023 14:44:42_8²MainText²I think I'm fine. My body is a little bit primed due to Luca's finger play, but other than that...
 30.10.2023 14:44:42_9²MainText²Why.. why do you ask?
 30.10.2023 14:44:42_10²MainText²I have to say, I feel a bit stupid for not letting Luca pleasure me too.
 30.10.2023 14:44:42_11²MainText²Luca is on our side as you have seen. She will gladly help you with everything.. ahem.. body related.
@@ -3547,7 +3547,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 30.10.2023 14:44:42_15²MainText²Why would you ask..
 30.10.2023 14:44:42_16²MainText²I am kind of a wild lover.
 30.10.2023 14:44:42_17²MainText²Just go to her and whisper sweet nothings.
-30.10.2023 14:44:42_18²MainText²It's not that I'm do not trust her, but... can... can you help me?
+30.10.2023 14:44:42_18²MainText²It's not that I don't trust her, but... can... can you help me?
 30.10.2023 14:44:42_19²MainText²Luca is fine, just ask her.
 30.10.2023 14:44:42_20²MainText²But, can you not help me instead?
 30.10.2023 14:44:42_21²MainText²Me... I... I mean, I... can...
@@ -3601,20 +3601,20 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 31.10.2023 13:20:34_5²MainText²The gynoid... really?
 31.10.2023 13:20:34_6²MainText²I was under the influence of the gas from the collar.
 31.10.2023 13:20:34_7²MainText²Oh... the collar... I completely forgot that I have it around my neck.
-31.10.2023 13:20:34_8²MainText²It can spout steam?
+31.10.2023 13:20:34_8²MainText²It can spout gas?
 31.10.2023 13:20:34_9²MainText²Yes, and then you will feel really aroused and submissive once you breathe it in.
 31.10.2023 13:20:34_10²MainText²And why did you end up being sprayed by the gas?
-31.10.2023 13:20:34_11²MainText²Luca released all of the gas from my collar to avoid being remotely controlled. And then...
+31.10.2023 13:20:34_11²MainText²Luca had to release all of the gas from my collar in order to remove it. And then...
 31.10.2023 13:20:34_12²MainText²Her lips were so inviting.
 31.10.2023 13:20:34_13²MainText²Please bend over a little bit more.
-31.10.2023 13:20:34_14²MainText²Anyway, we didn't do it much since the effect dissipates very quickly.
+31.10.2023 13:20:34_14²MainText²Anyway, we didn't do it for long since the collar was a prototype with a less potent drug.
 31.10.2023 13:20:34_15²MainText²I see. And to be honest, I also haven't done anything with a girl before.
 31.10.2023 13:20:34_16²MainText²It actually feels wrong. Like some kind of emergency alternative if you have no men at hand.
 31.10.2023 13:20:34_17²MainText²Is it?
 31.10.2023 13:20:34_18²MainText²Yes, it is. A couple of days ago they conducted a scent test with me and one of the samples was the aroma of a man.
-31.10.2023 13:20:34_19²MainText²And once I got to taste it... I...
+31.10.2023 13:20:34_19²MainText²And once I smelled it... I...
 31.10.2023 13:20:34_20²MainText²What happened?
-31.10.2023 13:20:34_21²MainText²I was feeling so incredibly horny.
+31.10.2023 13:20:34_21²MainText²I felt so incredibly horny.
 31.10.2023 13:20:34_22²MainText²I.. we will talk later about that.
 31.10.2023 13:20:34_23²MainText²If you want to.
 31.10.2023 13:20:34_24²MainText²Luca should be done with the dinner anyway.
@@ -3654,7 +3654,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 31.10.2023 17:32:26_2²MainText²Yes, Yuubari was her assistant. Maybe you can ask her about the whereabouts?
 31.10.2023 17:32:26_3²MainText²Good idea, I will do this tomorrow.
 31.10.2023 17:32:26_4²MainText²For now, it's time to head to bed. The day today was... intense, to say the least.
-31.10.2023 17:32:26_5²MainText²You're right. I'm feeling pretty frisky right now.
+31.10.2023 17:32:26_5²MainText²You're right. I'm feeling pretty exhausted right now.
 02.11.2023 13:08:52_0²MainText²I want to go to sleep just take one of the beds behind the first one.
 02.11.2023 13:08:52_1²MainText²First bed is occupied by you?
 02.11.2023 13:08:52_2²MainText²Yes.
@@ -3665,11 +3665,11 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 02.11.2023 13:08:52_7²MainText²Anyway.. time to head to bed..
 02.11.2023 13:08:52_8²MainText²...
 02.11.2023 15:04:38_0²MainText²Finally, my bed.
-02.11.2023 15:04:38_1²MainText²My first deep sleep in weeks, not trapped in this sensual cage.
+02.11.2023 15:04:38_1²MainText²My first deep sleep in weeks, not trapped in that room.
 02.11.2023 15:04:38_2²MainText²But it was a nice one actually. You even had a terminal there to play games.
 02.11.2023 15:04:38_3²MainText²I like my plants more though.
 02.11.2023 15:04:38_4²MainText²I was imprisoned right before I was able to cultivate one of the more exotic plants from this planet in an artificial environment.
-02.11.2023 15:04:38_5²MainText²I had such a sensual scent to it.
+02.11.2023 15:04:38_5²MainText²It had such a unique scent to it.
 02.11.2023 15:04:38_6²MainText²You think they destroyed the plant?
 02.11.2023 15:04:38_7²MainText²No, but I have no idea if they took care of it.
 02.11.2023 15:04:38_8²MainText²Let us hope for the best.
@@ -3792,7 +3792,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 04.02.2024 14:20:07_16²MainText²We arrived at the development office. As you can see, the transport hover platform has delivered the last parts for the device.
 04.02.2024 14:20:07_17²MainText²Please disembark, and I will set up the device. I already communicated with Luca. She will prepare you for the test while I set up the device.
 04.02.2024 14:20:07_18²MainText²What kind of preparation is needed?
-04.02.2024 14:20:07_19²MainText²Your collar seems to malfunction, I ordered her to fix it. We need data from the collar which is not corrupted.
+04.02.2024 14:20:07_19²MainText²Your collar seems to be malfunctioning, I ordered her to fix it. We need data from the collar which is not corrupted.
 04.02.2024 14:20:07_20²MainText²Oh.. that is.. bad of course... I will go to her and have it checked.
 04.02.2024 14:20:07_21²MainText²..
 04.02.2024 16:25:36_0²MainText²Luca, Nori told me that you need to check my collar.
@@ -3802,10 +3802,10 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 04.02.2024 16:25:36_4²MainText²O.. okay...
 04.02.2024 16:25:36_5²MainText²...
 04.02.2024 16:25:36_6²MainText²We can talk freely here. She will not hear us.
-04.02.2024 16:25:36_7²MainText²Luca, you nearly gave me a hearth attack!
+04.02.2024 16:25:36_7²MainText²Luca, you nearly gave me a heart attack!
 04.02.2024 16:25:36_8²MainText²Please let me help you out of all bondage devices.
 04.02.2024 16:25:36_9²MainText²Good.
-04.02.2024 16:25:36_10²MainText²I am sorry, but I needed to make sure that the other gynoids do not recognized that the collar has been modified by me.
+04.02.2024 16:25:36_10²MainText²I am sorry, but I needed to make sure that the other gynoids do not recognize that the collar has been modified by me.
 04.02.2024 16:25:36_11²MainText²I will alter the collars programming further, to give Nori the data readout she needs. Please lie down for now.
 04.02.2024 16:25:36_12²MainText²Alright.
 04.02.2024 16:25:36_13²MainText²Do not worry, I will not enable the tracer on the collar. Only the data communication protocol.
@@ -3960,14 +3960,14 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 18.02.2024 11:50:37_0²MainText²Yes, the cuffs will now close.
 18.02.2024 11:50:37_1²MainText²I.. see...
 18.02.2024 11:50:37_2²MainText²How do you feel now?
-18.02.2024 11:50:37_3²MainText²I do not know.. some as with the old milking suit.. I guess.. but.. more controlled.
+18.02.2024 11:50:37_3²MainText²I do not know.. same as with the old milking suit.. I guess.. but.. more controlled.
 18.02.2024 11:50:37_4²MainText²I can not believe you did this.
-18.02.2024 11:50:37_5²MainText²Said the one who drips also from her slit.
+18.02.2024 11:50:37_5²MainText²Said the one who's dripping from her slit.
 18.02.2024 11:50:37_6²MainText²They pumped this stuff into me, Ivy.
-18.02.2024 11:50:37_7²MainText²They did this too me too, |LastUsedCharName3rdPer|.
+18.02.2024 11:50:37_7²MainText²They did this to me too, |LastUsedCharName3rdPer|.
 18.02.2024 11:50:37_8²MainText²|LastUsedCharName3rdPer|, it seems you want to get attention from Ivy.
-18.02.2024 11:50:37_9²MainText²Where do you get this idea from?
-18.02.2024 11:50:37_10²MainText²Increase arousal seeing Ivy restrained and milked just like you.
+18.02.2024 11:50:37_9²MainText²Where did you get that idea from?
+18.02.2024 11:50:37_10²MainText²I noticed an increase in arousal from seeing Ivy restrained and milked just like you.
 18.02.2024 11:50:37_11²MainText²Ivy, why don't you kiss |LastUsedCharName3rdPer|?
 18.02.2024 11:50:37_12²MainText²Kiss her?
 18.02.2024 11:50:37_13²MainText²Kiss me?
@@ -3992,12 +3992,12 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 18.02.2024 15:28:20_8²MainText²Mhnff.. gnn....
 18.02.2024 15:28:20_9²MainText²Mhnf..ahh...
 18.02.2024 15:28:20_10²MainText²Slp... mhnn....
-18.02.2024 15:28:20_11²MainText²*her tongou.. yes.. ivy.. please..*
+18.02.2024 15:28:20_11²MainText²*her tongue.. yes.. ivy.. please..*
 18.02.2024 15:28:20_12²MainText²Mhngg..sllpp...
 18.02.2024 15:28:20_13²MainText²...
 18.02.2024 15:28:20_14²MainText²Mhnf... mhnf...
 18.02.2024 15:28:20_15²MainText²You liked it, right?
-18.02.2024 15:28:20_16²MainText²On.. on which side are you exactly?
+18.02.2024 15:28:20_16²MainText²On.. on whose side are you on?
 18.02.2024 15:28:20_17²MainText²On yours.
 18.02.2024 15:28:20_18²MainText²The milk container is filled to 60 percent, i do suggest to add more stimulating devices to increase milk production.
 18.02.2024 15:28:20_19²MainText²M.. more devices?
@@ -4035,12 +4035,12 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 18.02.2024 15:28:20_51²MainText²Yes, her body reactions are reflecting our virtual tests and simulations.
 18.02.2024 15:28:20_52²MainText²The aphrodisiac injection was a very successful treatment.
 18.02.2024 15:28:20_53²MainText²Wha.. what..?
-18.02.2024 15:28:20_54²MainText²Lady |LastUsedCharName3rdPer| is currently very sexual exhausted.
+18.02.2024 15:28:20_54²MainText²Lady |LastUsedCharName3rdPer| is currently very sexually exhausted.
 18.02.2024 15:28:20_55²MainText²I am also able to detect that the prototype harness milked you your breasts and you also generated about 300 milliliters of milk.
 18.02.2024 15:28:20_56²MainText²Y..yes.. I.. mhn... I like the suction strength actually.
 18.02.2024 15:28:20_57²MainText²We will keep that as a remark for further development. Can you please go to Gynoid Luca to detach the prototype?
 18.02.2024 15:28:20_58²MainText²I can not keep it?
-18.02.2024 15:28:20_59²MainText²No, I am sorry. We need to develop if further and make more tests to make it secure to wear for a prolonged amount of time.
+18.02.2024 15:28:20_59²MainText²No, I am sorry. We need to develop it further and make more tests to make it secure to wear for a prolonged amount of time.
 18.02.2024 15:28:20_60²MainText²F..fine..
 18.02.2024 15:28:20_61²MainText²...
 18.02.2024 15:28:20_62²MainText²|LastUsedCharName3rdPer|, I will now let you out of the device.
@@ -4057,7 +4057,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 18.02.2024 16:21:13_2²MainText²I feel.. so.. used.. and weak...
 18.02.2024 16:21:13_3²MainText²You are finally awake!
 18.02.2024 16:21:13_4²MainText²It was all dream.. right?
-18.02.2024 16:21:13_5²MainText²No, you got milked while being restrained like slave and I also got milked.
+18.02.2024 16:21:13_5²MainText²No, you got milked while being restrained like a slave and I also got milked.
 18.02.2024 16:21:13_6²MainText²Oh....
 18.02.2024 16:21:13_7²MainText²And we kissed.
 18.02.2024 16:21:13_8²MainText²Y..yes.. we.. did..
@@ -4083,7 +4083,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 02.03.2024 14:11:44_17²MainText²Yes, I will. I guess there will be a time when my tits also start to leak.
 02.03.2024 14:11:44_18²MainText²Nori also left you some materials for it.
 02.03.2024 14:11:44_19²MainText²Good.
-02.03.2024 14:11:44_20²MainText²Can you please tell me once you have build it?
+02.03.2024 14:11:44_20²MainText²Can you please tell me once you have built it?
 02.03.2024 14:11:44_21²MainText²Sure, yes.
 02.03.2024 14:11:44_22²MainText²I will do something else in the meantime.
 02.03.2024 14:11:44_23²MainText²As you wish.
@@ -4174,7 +4174,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 03.03.2024 14:51:55_1²MainText²But.. it felt so good... please...
 03.03.2024 14:51:55_2²MainText²No.. do not go away with the cups.
 03.03.2024 14:51:55_3²MainText²Ivy, get a grip of yourself. This thing just milked and fucked you.
-03.03.2024 14:51:55_4²MainText²You should try it do, |LastUsedCharName3rdPer|. It.. felt soo good..
+03.03.2024 14:51:55_4²MainText²You should try it too, |LastUsedCharName3rdPer|. It.. felt soo good..
 03.03.2024 14:51:55_5²MainText²Disabling restraints.
 03.03.2024 14:51:55_6²MainText²Mhnf...
 03.03.2024 14:51:55_7²MainText²I.. can not... mhn... at least I am feeling better right now.
@@ -4212,7 +4212,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 03.03.2024 14:51:55_39²MainText²...
 03.03.2024 14:54:57_0²MainText²Luca, I am no longer assigned to the hydroponic department. I think we can  continue to get Alexia out of this mess.
 03.03.2024 14:54:57_1²MainText²Very good , but this needs preparation. Alexia is currently held as a test subject in the transport research building to the north of us.
-21.04.2024 12:57:10_0²MainText²Can we not just brake in and get her out ?
+21.04.2024 12:57:10_0²MainText²Can we not just break in and get her out ?
 21.04.2024 12:57:10_1²MainText²It is not as easy , unfortunately. We do not have the tools to break into the building without the danger of hurting her.
 21.04.2024 12:57:10_2²MainText²Do you have an idea ?
 21.04.2024 12:57:10_3²MainText²Yes, but we need help from Ivy for this plan.
@@ -4341,7 +4341,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 21.04.2024 16:15:20_57²MainText²It is liberating and sexy. I can tell you.
 21.04.2024 16:15:20_58²MainText²What kind of relationship have you actually had with Alexia?
 21.04.2024 16:15:20_59²MainText²We were bored often. It was that kind of relationship.
-21.04.2024 16:15:20_60²MainText²But we had to role the dice to see who would use the strap on. She really liked to be the submissive one.
+21.04.2024 16:15:20_60²MainText²But we had to roll the dice to see who would use the strap on. She really liked to be the submissive one.
 21.04.2024 16:15:20_61²MainText²Even more than you?
 21.04.2024 16:15:20_62²MainText²Way more than me. I am just the smaller version of her submission.
 21.04.2024 16:15:20_63²MainText²Now I really want someone to suck on my tits.
@@ -4827,7 +4827,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 27.04.2024 13:03:03_9²MainText²Sure, why not!
 27.04.2024 13:03:03_10²MainText²You did not just say that...
 27.04.2024 13:03:03_11²MainText²I did!
-27.04.2024 13:03:03_12²MainText²Come one... just ask me!
+27.04.2024 13:03:03_12²MainText²Come on... just ask me!
 27.04.2024 13:03:03_13²MainText²Really?
 27.04.2024 13:03:03_14²MainText²Do it!
 27.04.2024 13:03:03_15²MainText²...
@@ -5082,7 +5082,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 13.11.2023 16:17:21_49²MainText²...
 13.11.2023 16:17:21_50²MainText²Minutes... 5 minutes...
 13.11.2023 16:17:21_51²MainText²I can't think straight...
-13.11.2023 16:17:21_52²MainText²My nymph.. my cunt.. jizz… is.. trickling.. still...
+13.11.2023 16:17:21_52²MainText²My pussy.. my cunt.. jizz… is.. trickling.. still...
 13.11.2023 16:17:21_53²MainText²Why... why am I... so... horny...
 13.11.2023 16:17:21_54²MainText²...I think, I think it does something.
 13.11.2023 16:17:21_55²MainText²Finally, it released me...
@@ -5336,7 +5336,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 17.12.2023 17:51:42_54²MainText²Mhnf... so.. full...
 17.12.2023 17:51:42_55²MainText²Very good, now I will enable the penetration mode.
 17.12.2023 17:51:42_56²MainText²Ye..yess.... ahhh....
-17.12.2023 17:51:42_57²MainText²Ahn.. nhgaa... yes... mhnaa...
+17.12.2023 17:51:42_57²MainText²Ahn.. nhgaa... yes...mhnaa...
 17.12.2023 17:51:42_58²MainText²Fuck me.. fuck... mhn...
 17.12.2023 17:51:42_59²MainText²The penetrators rhythmically dance within you now, unlocking peak sensations throughout your body. Enjoy the ride.
 17.12.2023 17:51:42_60²MainText²Yes.. ahh... mhn...
@@ -5789,7 +5789,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 10.03.2024 16:00:17_10²MainText²Alright.. now.. into the machine.
 10.03.2024 16:00:17_11²MainText²MHngf...
 10.03.2024 16:00:17_12²MainText²Welcome to the automated milking machine , the suction cups will now be placed onto your breasts. Please wait.
-10.03.2024 16:00:17_13²MainText²I can not belive.. mhn...
+10.03.2024 16:00:17_13²MainText²I can not believe.. mhn...
 10.03.2024 16:00:17_14²MainText²Adjusting suction cups.
 10.03.2024 16:00:17_15²MainText²Adjustment complete, your breasts are ready to be milked.
 10.03.2024 16:00:17_16²MainText²It.. they.. sit so tight...
@@ -5935,7 +5935,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 29.03.2024 16:09:21_63²MainText²Please enjoy the penetration.
 29.03.2024 16:09:21_64²MainText²Ahngga....yes.. mhnn...
 29.03.2024 16:09:21_65²MainText²Mhnffga... ahhh...
-29.03.2024 16:09:21_66²MainText²Your vaginal channel accept the dildo very eagerly. Please let me inflate it a bit.
+29.03.2024 16:09:21_66²MainText²Your vaginal channel accepted the dildo very eagerly. Please let me inflate it a bit.
 29.03.2024 16:09:21_67²MainText²in..inflate?
 29.03.2024 16:09:21_67²If_story_text²It is.. already...
 29.03.2024 16:09:21_68²MainText²MHnga.. ahhh....
@@ -6106,9 +6106,9 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 31.03.2024 13:43:36_18²MainText²Yes, I will push the dildo into you.
 31.03.2024 13:43:36_19²MainText²Does it feel good?
 31.03.2024 13:43:36_20²MainText²Mhnfg... nhnnaa....
-31.03.2024 13:43:36_21²MainText²I have a wide array of knowledge about the female sexual organs, I know have far I can push it into you.
+31.03.2024 13:43:36_21²MainText²I have a wide array of knowledge about the female sexual organs, I know how far I can push it into you.
 31.03.2024 13:43:36_22²MainText²Mhnfg.. nhnnnnaaaa....
-31.03.2024 13:43:36_23²MainText²I presume it feels great, your hearth rate is elevated and you organic lubrication is flowing.
+31.03.2024 13:43:36_23²MainText²I presume it feels great, your heart rate is elevated and you organic lubrication is flowing.
 31.03.2024 13:43:36_24²MainText²Faster now.
 31.03.2024 13:43:36_25²MainText²Mhnfg.. nhnnn ahhhhnnn....
 31.03.2024 13:43:36_26²MainText²You are close, right?
@@ -6793,7 +6793,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 27.04.2024 15:05:01_21²MainText²Ahh.. ahh.. mhnaa...
 27.04.2024 15:05:01_22²MainText²Fuck.. fuck me.. please...
 27.04.2024 15:05:01_23²MainText²Yes.. so deep.. ahhh...
-27.04.2024 15:05:01_24²MainText²You look so tasty... such a threat!
+27.04.2024 15:05:01_24²MainText²You look so tasty... such a treat!
 27.04.2024 15:05:01_25²MainText²Ahh.. ahh.. yes...
 27.04.2024 15:05:01_26²MainText²I am.. I am ..close...ee....
 27.04.2024 15:05:01_27²MainText²I....
@@ -6987,7 +6987,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 26.05.2024 14:18:57_54²MainText²Ahmmgg.. nhnnnff...
 26.05.2024 14:18:57_55²MainText²*my clit.. what the.. stop.. please... *
 26.05.2024 14:18:57_56²MainText²Mhnfgg.. mhnn... nhnnnn!
-26.05.2024 14:18:57_57²MainText²*Fells.. good.. so good.... stop please... *
+26.05.2024 14:18:57_57²MainText²*Feels.. good.. so good.... stop please... *
 26.05.2024 14:18:57_58²MainText²JUMP
 26.05.2024 14:18:57_59²MainText²The storage entertainment mode is now active. I will also connect you two to the milking stations, please remain calm during the attachment.
 26.05.2024 14:18:57_60²MainText²...
@@ -7276,7 +7276,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 21.06.2024 14:53:59_16²MainText²Alright, I will do my best!
 21.06.2024 14:53:59_17²MainText²Good , now please move upstairs and talk with her to get to know her. I will lower the cell fences one you are in the upper levels.
 21.06.2024 15:51:57_0²MainText²So.. and.. now?
-21.06.2024 15:51:57_1²MainText²A.. I see…
+21.06.2024 15:51:57_1²MainText²Ah.. I see…
 21.06.2024 15:51:57_2²MainText²...
 21.06.2024 15:51:57_3²MainText²This looks vastly different from below. But where is...
 21.06.2024 15:51:57_4²MainText²Who is... are you human ?
@@ -7297,7 +7297,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 21.06.2024 15:51:57_19²MainText²She said that I should talk to you about a compatibility.. check or something like that.
 21.06.2024 15:51:57_20²MainText²Perfect... this is... perfect. Listen, I know.. this is.. unusual.
 21.06.2024 15:51:57_21²MainText²I have seen many unusual things in here already and.. I.. also felt unusual things.
-21.06.2024 15:51:57_22²MainText²Did they sexual satisfied you?
+21.06.2024 15:51:57_22²MainText²Did they sexually satisfy you?
 21.06.2024 15:51:57_23²MainText²Y..yes... many.. times...
 21.06.2024 15:51:57_24²MainText²Then the next step will feel very good for you.
 21.06.2024 15:51:57_25²MainText²I need.. action.. really.. tell Jintsuu that our compatibility needs to be further tested. Tell her that you need to do a practice session with the comparison test device.
@@ -7394,7 +7394,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 23.06.2024 14:25:35_13²MainText²Go inside.. it will feel awesome.. I promise!
 23.06.2024 14:25:35_14²MainText²I.. okay...
 23.06.2024 14:25:35_15²MainText²Yes.. ahhh... fuck..yes...
-23.06.2024 14:25:35_16²MainText²So thight.. ahh.. yes...
+23.06.2024 14:25:35_16²MainText²So tight.. ahh.. yes...
 23.06.2024 14:25:35_17²MainText²This feels.. so wrong...
 23.06.2024 14:25:35_18²MainText²Please.. fuck me.. pleaahh...
 23.06.2024 14:25:35_19²MainText²Yes.. I love it.. yes.. take me...
@@ -7441,7 +7441,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 23.06.2024 15:32:47_12²MainText²Yes, you are right.
 23.06.2024 15:32:47_13²MainText²We should go.
 23.06.2024 15:32:47_14²MainText²...
-23.06.2024 15:32:47_15²MainText²food is served outside as always. Please follow me.
+23.06.2024 15:32:47_15²MainText²Food is served outside as always. Please follow me.
 23.06.2024 15:32:47_16²MainText²At least that is something you can rely on.
 23.06.2024 15:32:47_17²MainText²Uff.. full...
 23.06.2024 15:32:47_18²MainText²So. ahm.. what.. what is up now with Ivy?
@@ -7467,7 +7467,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 30.06.2024 16:54:46_5²MainText²It was not.. no...
 30.06.2024 17:15:48_0²MainText²...
 30.06.2024 17:15:48_1²MainText²They keep us in the chastity devices to make us horny and aroused.  For their tests.
-30.06.2024 17:15:48_2²MainText²Ye.. I am not surprised by that anymore. I just...
+30.06.2024 17:15:48_2²MainText²Yeah.. I am not surprised by that anymore. I just...
 30.06.2024 17:15:48_3²MainText²It starts slowly... you want to be touched.
 30.06.2024 17:15:48_4²MainText²I...
 30.06.2024 17:15:48_5²MainText²At the end, you crave to be taken like the girl you are.
@@ -7510,7 +7510,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 01.07.2024 10:34:05_7²If_story_text²They.. were.. yes...
 01.07.2024 10:34:05_8²MainText²Then, I should prepare and stay in idle mode, once I am back in my Spa.
 01.07.2024 10:34:05_8²If_story_text²I am happy to hear this, of course I will provide you two with the same care as usual.
-01.07.2024 10:34:05_9²MainText²Tp I will prepare you for the up coming tests , Gynoid Milu will now give you two a massage, please lay down onto the massage tables.
+01.07.2024 10:34:05_9²MainText²I will prepare you for the upcoming tests , Gynoid Milu will now give you two a massage, please lay down onto the massage tables.
 01.07.2024 10:34:05_10²MainText²I.. guess.. we should then.
 01.07.2024 10:34:05_11²MainText²We have no other choice... I think...
 01.07.2024 10:34:05_12²MainText²I take the second one.
@@ -7637,7 +7637,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 13.07.2024 16:50:23_27²MainText²Alexia.. are you really okay?
 13.07.2024 16:50:23_28²MainText²Mhnff... what do you think... I am horny, I left my boyfriend to have a career and now I am stuck in this pleasure prison.
 13.07.2024 16:50:23_29²MainText²All of this because I wanted money...
-13.07.2024 16:50:23_30²MainText²You are still getting payed, and the amount of money they will pay you due to...
+13.07.2024 16:50:23_30²MainText²You are still getting paid, and the amount of money they will pay you due to...
 13.07.2024 16:50:23_31²MainText²You do not get it , alright?
 13.07.2024 16:50:23_32²MainText²I am not getting younger, |LastUsedCharName3rdPer|. I not in my prime anymore, I.. ahh... fuck.... just fuck me...
 13.07.2024 16:50:23_33²MainText²Literally, please.. someone nail me until I lose consciousness.
@@ -7831,7 +7831,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 21.07.2024 12:58:59_16²MainText²Please Alexia, this.. I.. I just need it.
 21.07.2024 12:58:59_17²MainText²Then do it, use me!
 21.07.2024 12:58:59_18²MainText²I.. will...
-21.07.2024 12:58:59_19²MainText²Now , please utilize lady Alexia#s mouth.
+21.07.2024 12:58:59_19²MainText²Now , please utilize lady Alexia's mouth.
 21.07.2024 12:58:59_20²MainText²Y..yes...
 21.07.2024 12:58:59_21²MainText²I am.. sorry.. Alexia... I am...
 21.07.2024 12:58:59_22²MainText²My god.. your.. tongue...
@@ -7953,7 +7953,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 28.07.2024 15:11:22_42²MainText²Sexual stimulation until climax will not be the case in this process, but you may get aroused nevertheless.
 28.07.2024 15:11:22_43²MainText²Furthermore, a liquid can be used to refresh you during milking.
 28.07.2024 15:11:22_44²MainText²Mhngg.. nhnnn....
-28.07.2024 15:11:22_45²MainText²The device will not attach the milking cups to your breasts. Please wait.
+28.07.2024 15:11:22_45²MainText²The device will now attach the milking cups to your breasts. Please wait.
 28.07.2024 15:11:22_46²MainText²The process does not aim to hurt , it will be quick and will utilize low under vacuum  to fixate the cups onto your breasts.
 28.07.2024 15:11:22_47²MainText²*Milked.. again....*
 28.07.2024 15:11:22_48²MainText²Mhnfg... nhnnn...
@@ -8273,7 +8273,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 11.08.2024 14:23:11_13²MainText²No, that is not what I mean. Of course they can cook better than we can. They have all kinds of sensors on them. They know exactly when the egg is cooked through.
 11.08.2024 14:23:11_14²MainText²It feels like... I’m being replaced...
 11.08.2024 14:23:11_15²MainText²It...
-11.08.2024 14:23:11_16²MainText²Why should a men deal with us if a gynoid can do it better.
+11.08.2024 14:23:11_16²MainText²Why should a man deal with us if a gynoid can do it better.
 11.08.2024 14:23:11_17²MainText²I.. They can not give birth to a human. We still have the upper hand in that.
 11.08.2024 14:23:11_18²MainText²True, but for how long?
 11.08.2024 14:23:11_19²MainText²And where should the DNA for the female side come from?
@@ -8325,7 +8325,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 11.08.2024 15:07:04_0²MainText²It will feel good , I promise.
 11.08.2024 15:07:04_1²MainText²All the ..way.. in... mhngg...
 11.08.2024 15:07:04_2²MainText²Alexia.. your.. your...
-11.08.2024 15:07:04_3²MainText²Yes , my pussy is thight.. and.. wet.
+11.08.2024 15:07:04_3²MainText²Yes , my pussy is tight.. and.. wet.
 11.08.2024 15:07:04_4²MainText²Say it.. mhnn.. say it |LastUsedCharName3rdPer|!
 11.08.2024 15:07:04_5²MainText²It is.. so.. good... mhnn..
 11.08.2024 15:07:04_6²MainText²See... everything.. ahn.. as it should be. This chair binds us together.
@@ -8674,7 +8674,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 18.08.2024 14:06:48_7²MainText²You like this too. Right?
 18.08.2024 14:06:48_8²MainText²Wait... wait.. I just did this do get you out of here!
 18.08.2024 14:06:48_9²MainText²The itch?
-18.08.2024 14:25:44_0²MainText²The to be guided, to be dominated by someone else part.
+18.08.2024 14:25:44_0²MainText²The need to be guided, to be dominated by someone else part.
 18.08.2024 14:25:44_1²MainText²How did it feel when she used you from behind, Alexia?
 18.08.2024 14:25:44_2²MainText²Luca, you.. .told her everything?
 18.08.2024 14:25:44_3²MainText²She insisted that I tell her everything.
@@ -9713,7 +9713,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 31.08.2024 17:32:01_10²MainText²The thing in the middle?
 31.08.2024 17:32:01_11²MainText²Exactly.
 31.08.2024 17:32:01_12²MainText²Did you and Lillian met often?
-31.08.2024 17:32:01_13²MainText²We tried to met as often as we could. We were only three humans here after all. Especially after the early development crew left the planet.
+31.08.2024 17:32:01_13²MainText²We tried to meet as often as we could. We were only three humans here after all. Especially after the early development crew left the planet.
 31.08.2024 17:32:01_14²MainText²The guys.. as we called them.
 31.08.2024 17:32:01_15²MainText²What did they do?
 31.08.2024 17:32:01_16²MainText²They constructed all the houses and laboratories here with the help of their construction robots.
