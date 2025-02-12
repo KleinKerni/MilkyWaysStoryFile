@@ -258,6 +258,9 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 25.12.2024 14:18:38_0²MainText²Will save the list of all animations,clothing sets and restraints to text files
 25.12.2024 14:18:38_1²MainText²Done.. hopefully...
 25.12.2024 14:18:38_2²MainText²SaveListOfallUseableRestraintsFromChar
+05.01.2025 15:56:54_0²MainText²...
+05.01.2025 15:56:54_1²MainText²...
+05.01.2025 15:56:54_2²MainText²...
 15.05.2023 15:23:23_1²MainText²...
 10.09.2023 10:48:08_0²MainText²What!
 15.05.2023 15:23:23_2²MainText²Oh.. my head...
@@ -1056,6 +1059,9 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 21.06.2024 14:53:59_0²MainText²Gynoid jintsuu
 19.04.2024 16:01:22_0²MainText²Gynoid Mutsuki
 01.09.2024 10:26:29_0²MainText²Alexia
+19.01.2025 10:46:50_0²MainText²Agano
+25.01.2025 12:28:33_0²MainText²Agano
+25.01.2025 12:28:33_1²MainText²Agano
 17.09.2023 15:04:35_0²MainText²bail out
 28.07.2023 16:03:25_1²MainText²Disable head look targets
 12.11.2023 14:49:20_0²MainText²...
@@ -9685,9 +9691,62 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 25.11.2024 12:33:25_13²MainText²...
 25.11.2024 12:33:25_14²MainText²...
 25.11.2024 12:33:25_15²MainText²END of story for BID version 0.28.
-25.11.2024 13:05:33_0²MainText²More story in the next release ^_^
-24.12.2024 14:30:47_0²MainText²Maybe you would like to try out the mini story mod framework , a tutorial should be in the game folder somewhere.
-25.11.2024 13:05:33_1²MainText²...
+25.01.2025 14:28:48_0²MainText²I was already running querys for her location , but i am not able to find any traces.
+25.01.2025 14:28:48_1²MainText²We may need another access point to find her.
+25.01.2025 14:28:48_2²MainText²Another access point, you mean a terminal ?
+25.01.2025 14:28:48_3²MainText²More than that , a token to gain access to the internal databank of the main server.
+25.01.2025 14:28:48_4²MainText²I already have a token , but this only grants the upload rights to the server for the development base research material.
+25.01.2025 14:28:48_5²MainText²Yuubari told me that they are waiting for your research results. What do they mean ?
+25.01.2025 14:28:48_6²MainText²The development office is currently working under a disguise as a social research branch. 
+25.01.2025 14:28:48_7²MainText²And for the social research to work , our department needed several testubjects.
+25.01.2025 14:28:48_8²MainText²This is also the reason why we were able to request that many testsubjects in this department.
+25.01.2025 14:28:48_9²MainText²I already uploaded results , mostly generic social data and videos of you interacting with Ivy and Alexia.
+25.01.2025 14:28:48_10²MainText²E..even the naughty stuff ?
+25.01.2025 14:28:48_11²MainText²Yes , i need to include everything to not loose our current research status.
+25.01.2025 14:28:48_12²MainText²Fine.. i think.
+25.01.2025 14:28:48_13²MainText²Do.. do we need to do more to keep our guise longer ?
+25.01.2025 14:28:48_14²MainText²We are maybe able to extend this guise and also gain access to another databank token with the cooperation with the attachment development department.
+25.01.2025 14:28:48_15²MainText²What do you mean ?
+25.01.2025 14:28:48_16²MainText²The attachment reseach department uploaded a request to test out a new version of an already used attachment. They asked us specifically to cooperate their research with our research.
+25.01.2025 14:28:48_17²MainText²If you do want to take on this request then we should talk with everyone about it , since it will also involve Ivy and Alexia in this project.
+25.01.2025 14:28:48_18²MainText²Sure, Let us gather the other!
+25.01.2025 14:28:48_19²MainText²We would like to propose to work together with the attachment development department to find Lillan.
+25.01.2025 14:28:48_20²MainText²Once we received the access token to the database, i hope that i can find Lillians location.
+25.01.2025 14:28:48_21²MainText²And we are to also work with this department ?
+25.01.2025 14:28:48_22²MainText²Since all of you are currently registered as the testsubjects for this department, you all need to participate.
+25.01.2025 14:46:30_0²MainText²I... i do not know about the tests , but we may can find Lillian that way.
+25.01.2025 14:46:30_1²MainText²Then , we need to grab that chance.
+25.01.2025 14:46:30_2²MainText²Yes, otherwise we may never find Lillian.
+25.01.2025 14:46:30_3²MainText²Then i will contact the attachement department and create a plan which involves as less testsubject interruption as possible for us.
+25.01.2025 14:46:30_4²MainText²Do this , Luca.
+25.01.2025 14:46:30_5²MainText²Yes and please gather in about 10 minutes at the dining table.
+25.01.2025 14:46:30_6²MainText²Already dining time ?
+25.01.2025 14:46:30_7²MainText²Yes, food is important. Please wait about 10 minutes.
+25.01.2025 14:46:30_8²MainText²Okay.
+25.01.2025 14:46:30_9²MainText²...
+25.01.2025 14:46:30_10²MainText²More.. tests...
+25.01.2025 14:46:30_11²MainText²Up until now they were quiet tame.
+25.01.2025 14:46:30_12²MainText²Yes , what do you want to argue about.
+25.01.2025 14:46:30_13²MainText²I.. we... are fored to do it.
+25.01.2025 14:46:30_14²MainText²You are getting horny just thinking about it , right ?
+25.01.2025 14:46:30_15²MainText²No, i never said that.
+25.01.2025 14:46:30_16²MainText²Yes, yes... just admit it , |LastUsedCharName3rdPer|.
+25.01.2025 15:44:02_0²MainText²How can you guys just be that... horny..
+25.01.2025 15:44:02_1²MainText²Why should we not ?
+25.01.2025 15:44:02_2²MainText²It is not like i can do much here, so i spend quality time with Alexia.
+25.01.2025 15:44:02_3²MainText²Until we get our hands on real meat again.
+25.01.2025 15:44:02_4²MainText²Real me... oh.. yes..
+25.01.2025 15:44:02_5²MainText²Now she understands.
+25.01.2025 15:44:02_6²MainText²I don't think so.
+25.01.2025 15:44:02_7²MainText²Mhnff...
+25.01.2025 15:44:02_8²MainText²She is playing with her nipple.
+25.01.2025 15:44:02_9²MainText²I.. oh...
+25.01.2025 15:44:02_10²MainText²That is how it starts, mindlessly playing and enjoying.
+25.01.2025 15:44:02_11²MainText²DInner is ready, please gather everyone.
+25.01.2025 15:44:02_12²MainText²We are comming.
+25.01.2025 15:44:02_13²MainText²Or should we make you come , |LastUsedCharName3rdPer| ?
+25.01.2025 15:44:02_14²MainText²Ivy.. please.. stop...
+25.01.2025 15:44:02_15²MainText²...
 22.12.2024 10:58:17_0²MainText²Alright, nice material i have to say.
 22.12.2024 10:58:17_1²MainText²Now i can talk to Ivy and tell her that i have the maid clothes.
 22.12.2024 10:58:17_2²MainText²And.. they.. look really nice.. i have to say.
@@ -10478,3 +10537,488 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 22.12.2024 14:34:59_27²MainText²my holes.. so.. wet...
 22.12.2024 14:34:59_28²MainText²my holes.. so.. wet...
 22.12.2024 14:34:59_29²MainText²...
+19.01.2025 10:46:50_1²MainText²Yes, of course. How can i help you , |TriggerVnEventClientChar| ?
+19.01.2025 10:46:50_2²MainText²Jump to generate general questions.
+19.01.2025 16:18:34_0²MainText²MISSING
+19.01.2025 10:46:50_3²MainText²SC40_Agano_WhatIsTheattachmentDevOffice__511
+19.01.2025 10:46:50_4²MainText²...
+19.01.2025 10:46:50_5²MainText²This is the attachment development department. 
+19.01.2025 10:46:50_6²MainText²In here we do research new attachments and constantly updating existing test attachments to increase comfort and arousal.
+19.01.2025 10:46:50_7²MainText²We are constantly searching for human testsubjects, please ask your current department owner in case if you want to switch to our department.
+19.01.2025 10:46:50_7²If_story_text²Please keep in mind that uncollared humans must either be registered as guests or collared as testsubjects.
+19.01.2025 10:46:50_8²MainText²Uncollared humans are not allowed to enter the building.
+19.01.2025 10:46:50_9²MainText²I.. think about it....
+19.01.2025 10:46:50_9²If_story_text²Oh.. okay.. i will remeber it.
+19.01.2025 10:46:50_10²MainText²...
+19.01.2025 11:35:49_0²MainText²I am sorry, but uncollared humans without guest status are not allowed in the research department, please move away from the door.
+19.01.2025 11:35:49_1²MainText²Not following this order will result in apprehansion and a forcefull transport back to the development office.
+19.01.2025 11:35:49_2²MainText²...
+19.01.2025 11:35:49_3²MainText²Alright.. i will not go further.
+19.01.2025 11:35:49_4²MainText²...
+19.01.2025 11:35:49_5²MainText²I am sorry, but entry is not permitted for uncollared humans.
+19.01.2025 11:35:49_6²MainText²Wha... mhn.. waht....
+19.01.2025 11:35:49_7²MainText²Please step back from the entry.
+19.01.2025 11:35:49_8²MainText²my.. head... yes.. i...
+19.01.2025 11:35:49_9²MainText²...
+19.01.2025 11:43:35_0²MainText²What is researched here ?
+19.01.2025 11:43:35_1²MainText²New useable attachment on willing human females.
+19.01.2025 11:43:35_2²MainText²For example nipple vibrators to keep the pink bud stiff and excited.
+19.01.2025 11:43:35_3²MainText²Dildos to fill the vaginal channel and cause arousal.
+19.01.2025 11:43:35_4²MainText²Anal plugs to give an arousing filling to the rear hole.
+19.01.2025 11:43:35_5²MainText²Chast...
+19.01.2025 11:43:35_6²MainText²Fine fine... i understand.. i think..
+19.01.2025 11:43:35_7²MainText²Do you have any more questions ?
+19.01.2025 11:43:35_8²MainText²...
+25.01.2025 12:28:33_2²MainText²Yes, of course. How can i help you , |TriggerVnEventClientChar| ?
+25.01.2025 12:28:33_3²MainText²Jump to generate general questions.
+25.01.2025 12:28:33_4²MainText²MISSING
+25.01.2025 12:28:33_5²MainText²
+25.01.2025 12:28:33_6²MainText²...
+25.01.2025 12:28:33_7²MainText²Yes, of course. How can i help you , |TriggerVnEventClientChar| ?
+25.01.2025 12:28:33_8²MainText²Jump to generate general questions.
+25.01.2025 12:28:33_9²MainText²MISSING
+25.01.2025 12:28:33_10²MainText²
+25.01.2025 12:28:33_11²MainText²...
+25.01.2025 15:44:02_16²MainText²*Shortly after the dinner*
+25.01.2025 15:44:02_17²MainText²I would like to mention that I and the main gynoid in the attachment development department worked out a research plan.
+25.01.2025 15:44:02_18²MainText²Starting tomorrow, you aill be transported to the attachment research department for a medical check in which one of you will be equipped with a experimental sensitivity test device.
+25.01.2025 15:44:02_19²MainText²Then you will return with said device and continue the fake research here.
+25.01.2025 15:44:02_20²MainText²Being transported ?
+25.01.2025 15:44:02_21²MainText²Yes, the attachment department will transport you with the help of the staff which is currently there.
+25.01.2025 15:44:02_22²MainText²I.. are we getting restrained again during the transport ?
+25.01.2025 15:44:02_23²MainText²Yes, this was non negotiable.
+25.01.2025 15:44:02_24²MainText²Fi.. gures...
+25.01.2025 15:44:02_25²MainText²Pulling on the right strings there ?
+25.01.2025 15:44:02_26²MainText²...
+25.01.2025 15:44:02_27²MainText²Please consider to go to bed now. The next day may be straining your body.
+25.01.2025 15:44:02_28²MainText²Okay..
+25.01.2025 15:44:02_29²MainText²Let us go everyone, tomorrow we will see what they have in stock for us.
+25.01.2025 15:44:02_30²MainText²Lets head to sleep!
+25.01.2025 15:44:02_31²MainText²Luca, Do you think they are brainwashing us ?
+25.01.2025 15:44:02_32²MainText²Brainwashing is not possible and not permitted under the stellar juristriction. The main AI would break several human right paragraphs if an attempt with be made.
+25.01.2025 15:44:02_33²MainText²What they are able to do is to bring a specific human behaviour to the forefront.
+25.01.2025 15:44:02_34²MainText²A specific human behaviour.. this...
+25.01.2025 15:44:02_35²MainText²It seems that the main AI is trying to make you all aware of your sexuality , but the reason why she is doing this is unknown to me.
+25.01.2025 15:44:02_36²MainText²For now, please consider to sleep.
+25.01.2025 15:44:02_37²MainText²Will do.
+25.01.2025 15:44:02_38²MainText²...
+25.01.2025 16:24:51_0²MainText²...
+25.01.2025 16:24:51_1²MainText²Do you also wonder what they will do with us , |LastUsedCharName3rdPer| ?
+25.01.2025 16:24:51_2²MainText²I think they... will.. do something lewd to us.
+25.01.2025 16:24:51_3²MainText²They always do.
+25.01.2025 16:24:51_4²MainText²Why such a resignated voice ?
+25.01.2025 16:24:51_5²MainText²I sitll think they want to brainwash us.
+25.01.2025 16:24:51_6²MainText²Sure..|LastUsedCharName3rdPer|.
+25.01.2025 16:24:51_7²MainText².. yes...
+25.01.2025 16:24:51_8²MainText²Good night |LastUsedCharName3rdPer|.
+25.01.2025 16:24:51_9²MainText²Good night Ivy!
+25.01.2025 16:24:51_10²MainText²...
+25.01.2025 16:24:51_11²MainText²Mhnfg.. mhnfgg...
+25.01.2025 16:24:51_12²MainText²Exceptional lubrication i have to say.
+25.01.2025 16:24:51_13²MainText²Wet , slimy and very inviting for any human male.
+25.01.2025 16:24:51_14²MainText²You do wish to fulfil your natural desire for children , right ?
+25.01.2025 16:24:51_15²MainText²Yes , gynoid Rin.
+25.01.2025 16:24:51_16²MainText²Truely excellent, now we only need to find out what drives this need, how we can replicate it.
+25.01.2025 16:24:51_17²MainText²I am still .. aroused.. Gynoid Rin.
+25.01.2025 16:24:51_18²MainText²And you will continue to do so until we say.
+25.01.2025 16:24:51_19²MainText²Please.. again Gynoid Rin.
+25.01.2025 16:24:51_20²MainText²I am very sorry, lady |LastUsedCharName3rdPer| , further vaginal lub...
+25.01.2025 16:24:51_21²MainText²Oh.. not again...
+25.01.2025 16:24:51_22²MainText²oh... what... the..
+26.01.2025 13:09:56_0²MainText²These dreams...
+26.01.2025 13:09:56_1²MainText²Really... such stupid dreams...
+26.01.2025 13:09:56_2²MainText²mhnff...
+26.01.2025 13:09:56_3²MainText²*A couple of hours later*
+26.01.2025 13:09:56_4²MainText²|LastUsedCharName3rdPer|, time to get up , the others are already eating.
+26.01.2025 13:09:56_5²MainText²What.. 
+26.01.2025 13:09:56_6²MainText²You are comming ?
+26.01.2025 13:09:56_7²MainText²Y..yes.. i.. am on my way...
+26.01.2025 13:09:56_8²MainText²...
+26.01.2025 13:09:56_9²MainText²At least i did not have such a kinky dream again.
+26.01.2025 13:09:56_10²MainText²She is on her way.
+26.01.2025 13:09:56_11²MainText²Yes.. yes...
+26.01.2025 13:09:56_12²MainText²...
+26.01.2025 13:09:56_13²MainText²That was nice...
+26.01.2025 13:09:56_14²MainText²Prepared for another day!
+26.01.2025 13:09:56_15²MainText²Luca, when will the droids from the attachment research department come here ?
+26.01.2025 13:09:56_16²MainText²They are planned to arrive soon. Three gynoids with special transport equipment.
+26.01.2025 13:09:56_17²MainText²Can we not just... walk there ?
+26.01.2025 13:09:56_18²MainText²Unfortunately not, offical transports must be handled with limited freedom for testsubjects.
+26.01.2025 13:09:56_19²MainText²Remmeber Ivy, i had to drag Alexia all the way to the warehouse for her collar.
+26.01.2025 13:09:56_20²MainText²Yes,  true.
+26.01.2025 13:09:56_21²MainText²It was not that bad, especially when we returned.
+26.01.2025 13:09:56_22²MainText²Yuubari knew where she needed to put her fingers in.
+26.01.2025 13:09:56_23²MainText²Don't tell me you likes that ?
+26.01.2025 13:09:56_24²MainText²And if i do ?
+26.01.2025 13:09:56_25²MainText²She..
+26.01.2025 13:09:56_26²MainText²..she did her job and i liked it. It is not that i had any say in it, and she even made me feel special.
+26.01.2025 13:09:56_27²MainText²What is so bad in being a little bit submissive once in a while ?
+26.01.2025 13:09:56_28²MainText²Stop arguing , please.
+26.01.2025 13:09:56_29²MainText²Sorry...
+26.01.2025 13:09:56_30²MainText²They will not do anything bad to us, that is for sure. Now we just have to wait for them.
+26.01.2025 13:09:56_31²MainText²Yes, we just wait.
+26.01.2025 13:09:56_32²MainText²You are going to the shower, Alexia ?
+26.01.2025 13:09:56_33²MainText²Yes, want after me ?
+26.01.2025 13:09:56_34²MainText²Yes , please.
+26.01.2025 13:09:56_35²MainText²Okay, then we just wait for the things to come.
+26.01.2025 13:09:56_36²MainText²...
+26.01.2025 13:09:56_37²MainText²Do you know what they will test on us ?
+26.01.2025 13:09:56_38²MainText²In the plans they mentioned a special attachment which has been further developed.
+26.01.2025 13:09:56_39²MainText²But i do lack further details. What i can say is that you all will be checked and then transfered back to this department once the necessary testing equipment is attached to your bodies.
+26.01.2025 13:09:56_40²MainText²Testing equipment... i.. Mhnnff...
+26.01.2025 13:09:56_41²MainText²I also lack any informations about that, sorry.
+26.01.2025 13:09:56_42²MainText²I was able to negotiate that you all will be transfered back to this department. But several tests need to be done here, in this department so that we can send test data back to the other department.
+26.01.2025 13:09:56_43²MainText²Yes.. i see..
+26.01.2025 13:09:56_44²MainText²...
+26.01.2025 13:09:56_45²MainText²What ?
+26.01.2025 13:09:56_46²MainText²They will arrive shortly, we should gather everyone and prepare.
+26.01.2025 13:09:56_47²MainText²Okay.
+26.01.2025 13:09:56_48²MainText²I will not be able to join you and stay here.
+26.01.2025 13:09:56_49²MainText²They will not do anything that hurts , right ?
+26.01.2025 13:09:56_50²MainText²This is very unlikely. 
+26.01.2025 13:09:56_51²MainText²They never ever did anything that hurt to me.
+26.01.2025 13:09:56_52²MainText²Yes.. right..
+26.01.2025 13:09:56_53²MainText²Mhnf...i still have my doubts about the attchments they want to try.
+26.01.2025 13:09:56_54²MainText²Can not be worse than running around in chastity devices for a whole day.
+26.01.2025 13:09:56_55²MainText²Yes.. i can also remember.
+26.01.2025 13:09:56_56²MainText²Here they come.
+26.01.2025 13:09:56_57²MainText²What are the things on their back ?
+26.01.2025 13:09:56_58²MainText²Transport devices.
+26.01.2025 13:09:56_59²MainText²They will carry us ?
+26.01.2025 13:09:56_60²MainText²Hello, i am Gynoid Agano. The leader of the attachment research department. We are here for temporal storage and transport of the testsubjects.
+26.01.2025 13:09:56_61²MainText²Acknowledged. The testsubjects are ready for transport.
+26.01.2025 13:09:56_62²MainText²Very good.
+26.01.2025 13:09:56_63²MainText²Testubject Ivy, Alexia and |LastUsedCharName3rdPer|. Please let me ensure you that we will do the utmost for your wellbeing during the tests in our department.
+26.01.2025 13:09:56_64²MainText²The attachment development department is very exicted to utilize such professional testsubjects for our project.
+26.01.2025 13:09:56_65²MainText²And now, please get into the transport devices on our backs.
+26.01.2025 13:09:56_66²MainText²You carry us all the way ?
+26.01.2025 13:09:56_67²MainText²Yes, please get into the devices.
+26.01.2025 13:09:56_68²MainText²...
+26.01.2025 13:09:56_69²MainText²Sounds exicting , let us go.
+26.01.2025 13:09:56_70²MainText²...
+26.01.2025 13:09:56_71²MainText²It is weird, but comfortable in its own right.
+26.01.2025 13:09:56_72²MainText²Then.. in we go.
+26.01.2025 13:09:56_73²MainText²...
+26.01.2025 13:09:56_74²MainText²Fine..
+26.01.2025 13:09:56_75²MainText²...
+26.01.2025 13:09:56_76²MainText²Very good, all testsubjects are securely restrained on our backs.
+26.01.2025 13:09:56_77²MainText²We will now transport you to our department, please be calm during the transport phase.
+26.01.2025 13:09:56_78²MainText²I expect you back in the afternoon.
+26.01.2025 13:09:56_79²MainText²Of course, Gynoid Luca. We will support the social tests as planned.
+26.01.2025 13:09:56_80²MainText²We will also include a check up during the transport.
+26.01.2025 13:09:56_81²MainText²...
+26.01.2025 13:09:56_82²MainText²I can not belive i am doing this.
+26.01.2025 13:09:56_83²MainText²Just enjoy it, |LastUsedCharName3rdPer|!
+26.01.2025 13:09:56_84²MainText²I.. do not know.. i am getting transported like a backpack currently.
+26.01.2025 13:09:56_85²MainText²Don't be so negative about it. Enjoy the view.
+26.01.2025 13:09:56_86²MainText²You do not even realize how it is designed to spread our legs ?
+26.01.2025 13:09:56_87²MainText²Realize , yes. But i do not mind.
+26.01.2025 15:26:14_0²MainText²It even has a dildo in a very special position.
+26.01.2025 15:26:14_1²MainText²You are right!
+26.01.2025 15:26:14_2²MainText²These devices are meant for entertainment and testing during transport.
+26.01.2025 15:26:14_3²MainText²Can we request the usage ?
+26.01.2025 15:26:14_4²MainText²We will reac the first checkpoint soon, we will elaborate further once we reached it.
+26.01.2025 15:26:14_5²MainText²We just have to wait.
+26.01.2025 15:26:14_6²MainText²To imagine.. that it could move inside me.
+26.01.2025 15:26:14_7²MainText²Yes..
+26.01.2025 15:26:14_8²MainText²We reached the checkpoint.
+26.01.2025 15:26:14_9²MainText²It seems that certain preperations must be in order for the comming tests.
+26.01.2025 15:26:14_10²MainText²You all have already reqcronized the dildo underneath your vaginal opening.
+26.01.2025 15:26:14_11²MainText²What is happening , i can not see anything ?
+26.01.2025 15:26:14_12²MainText²They exposed our pussies.
+26.01.2025 15:26:14_13²MainText²Wh.. why ?
+26.01.2025 15:26:14_14²MainText²The dildo will now start to stimulate you Ivy and Alexia.
+26.01.2025 15:26:14_15²MainText²Ahhnnmm gg.....
+26.01.2025 15:26:14_16²MainText²Ohnmhnnfff....
+26.01.2025 15:26:14_17²MainText²Please wait , lady |LastUsedCharName3rdPer|. I will now expose your vaginal entrance , so that the dildo is able to stimulate you.
+26.01.2025 15:26:14_18²MainText²Me.. i.. i...
+26.01.2025 15:26:14_19²MainText²Ahnmggg....
+26.01.2025 15:26:14_20²MainText²Ivy... you sound so...
+26.01.2025 15:26:14_21²MainText²Mhnn...
+26.01.2025 15:26:14_22²MainText²Please enjoy the stimulation, lady |LastUsedCharName3rdPer|.
+26.01.2025 15:26:14_23²MainText²Ahmgg... mhhaa...
+26.01.2025 15:26:14_24²MainText²mhnfg...
+26.01.2025 15:26:14_25²MainText²Amhngg... mhnnn...
+26.01.2025 15:26:14_26²MainText²We will continue you.
+26.01.2025 15:26:14_27²MainText²Please enjoy the stimulation until we arrive at the department.
+26.01.2025 15:26:14_28²MainText²...
+26.01.2025 15:26:14_29²MainText²Mhnfg... please.. ahh...
+26.01.2025 15:26:14_30²MainText²it is dripping so much... ahh...
+26.01.2025 15:26:14_31²MainText²Insert it... insert it.. please...
+26.01.2025 15:26:14_32²MainText²Fuck me.. please... ahh...
+26.01.2025 15:26:14_33²MainText²I am sorry, but insertion and penetration is not planned during the transport. Only stimulation.
+26.01.2025 15:26:14_34²MainText²This is tor.. mhn ...ment...
+26.01.2025 15:26:14_35²MainText²Just take me.. please.. use me...
+26.01.2025 15:26:14_36²MainText²I can not.. i.. mhnaa....
+26.01.2025 15:26:14_37²MainText²The sensitivity of the testsubjects are excellent.
+26.01.2025 15:26:14_38²MainText²The former development office did a very good job.
+26.01.2025 15:26:14_39²MainText²Mhnfg...
+26.01.2025 15:26:14_40²MainText²Just.. please.. please...
+26.01.2025 15:26:14_41²MainText²Why.. why.. why do i feel.. so .. horny...
+26.01.2025 15:26:14_42²MainText²We arrived.
+26.01.2025 15:26:14_43²MainText²We will now release you from the devices. Please stay calm.
+26.01.2025 15:26:14_44²MainText²mhnfg.. i.. yes...
+26.01.2025 15:26:14_45²MainText²mhnfg.. i.. yes...
+26.01.2025 15:26:14_46²MainText²This is.. mhnnff...
+26.01.2025 15:26:14_47²MainText²My pussy.. so.. wet...
+26.01.2025 15:26:14_48²MainText²This is ridiculus.
+26.01.2025 15:26:14_49²MainText²We will detach the transport devices and continue our plan. Please wait.
+26.01.2025 15:26:14_50²MainText²...
+26.01.2025 15:26:14_51²MainText²S..sure...
+26.01.2025 15:26:14_52²MainText²...
+26.01.2025 15:26:14_53²MainText²The transport seems to have made you all extremely sensitiv. This is a good sign of test compability.
+26.01.2025 15:26:14_54²MainText²We will now do a short checkup for compatibility in order to determine which one will receive the new attachment.
+26.01.2025 15:26:14_55²MainText²I.. need.. something in me...
+26.01.2025 15:26:14_56²MainText²I am sorry, lady Ivy. We need to make a clinical examination first to make sure the stress of the tests can be handled by your body.
+26.01.2025 15:26:14_57²MainText²Lady Ivy and Lady Alexia will now go upstairs. Lady |LastUsedCharName3rdPer| , please follow me.
+01.02.2025 14:53:14_0²MainText²Why.. why me alone ?
+01.02.2025 14:53:14_1²MainText²We need to change your test subject collar in order for a wider range of data aquisition.
+01.02.2025 14:53:14_2²MainText²Mhnfg... another collar..
+01.02.2025 14:53:14_3²MainText²*Damn.. they found out about the modified collar probably.*
+01.02.2025 14:53:14_4²MainText²This is neccessary, lady |LastUsedCharName3rdPer|.
+01.02.2025 14:53:14_5²MainText²Yes.. i get it.
+01.02.2025 14:53:14_6²MainText²Good , please follow me.
+01.02.2025 14:53:14_7²MainText²...
+01.02.2025 14:53:14_8²MainText²Good, your old collar is now detached. You will now receive your new collar from me.
+01.02.2025 14:53:14_9²MainText²Why.. do i feel so.. naked...
+01.02.2025 14:53:14_10²MainText²This is more a psychological issue, former tests showed that you were very submissive and showed heavy signs of obidient behaviour towards the gynoid staff.
+01.02.2025 14:53:14_11²MainText²The collar was your reassurance for this kind of behavior, a sign of belonging and a force to obey the gynoids commands.
+01.02.2025 14:53:14_12²MainText²The new collar will also fulfill this role. 
+01.02.2025 14:53:14_13²MainText²Your new collar has an extended processing unit and more space to save your collected data.
+01.02.2025 14:53:14_14²MainText²It also distinguishes you as a very active testsubject who provided a lot of data for the cause of this factility.
+01.02.2025 14:53:14_15²MainText²Let me help you putting it around your neck.It will automatically lock into place, you will not be able to unlock or remove it.
+01.02.2025 14:53:14_16²MainText²Y..yes.. of course it wil lock itself.
+01.02.2025 14:53:14_17²MainText²I presume you anticipate it ?
+01.02.2025 14:53:14_18²MainText²I.. will.. mhnf... Just collar me.. okay ?
+01.02.2025 14:53:14_19²MainText²As you wish.
+01.02.2025 14:53:14_20²MainText²...
+01.02.2025 14:53:14_21²MainText²The collar is now locked around your neck and will provide us with important data about your body.
+01.02.2025 14:53:14_22²MainText²May i ask why i get a new collar and the other did not ?
+01.02.2025 14:53:14_23²MainText²Because we decided to use our special attachment onto you after the examination.
+01.02.2025 14:53:14_24²MainText²What special attachment ?
+01.02.2025 14:53:14_25²MainText²A second version of the external stimulation device.
+01.02.2025 14:53:14_26²MainText²Now, please follow me upstairs , we need to do the examination now.
+01.02.2025 14:53:14_27²MainText²oh.. okay...
+01.02.2025 14:53:14_28²MainText²...
+01.02.2025 16:28:39_0²MainText²Please undress and sit down in the exam chair lady |LastUsedCharName3rdPer|.
+01.02.2025 16:28:39_1²MainText²Mhnfg... please... take it out...
+01.02.2025 16:28:39_2²MainText²I am sorry, Lady Ivy this device is designed to stimulate you in preperation for the tests.
+01.02.2025 16:28:39_3²MainText²But it so deep... mhnfggg....
+01.02.2025 16:28:39_4²MainText²Now, please sit down. Lady |LastUsedCharName3rdPer|.
+01.02.2025 16:28:39_5²MainText²Y..yes.. of course...
+01.02.2025 16:28:39_6²MainText²Why.. why my ass... mhnfgg....
+01.02.2025 16:28:39_7²MainText²As Gynoid Sakawa alredy mentioned , this is for the preperation of the tests.
+01.02.2025 16:28:39_8²MainText²I will now check your important bodyparts if they are compatibe with the new test devices.
+01.02.2025 16:28:39_9²MainText²Okay.
+01.02.2025 16:28:39_10²MainText²The chair will now release you , lady Alexia.
+01.02.2025 16:28:39_11²MainText²Mhnhfg.. mhnn...
+01.02.2025 16:28:39_12²MainText²You may enjoy the stimulation during the wait time.
+01.02.2025 16:28:39_13²MainText²Will i be also filled in all holes ?
+01.02.2025 16:28:39_14²MainText²Yes, and you will be equipped with the external testing device.
+01.02.2025 16:28:39_15²MainText²Whoaa...
+01.02.2025 16:28:39_16²MainText²Lady Ivy and Lady Alexia, please follow me to receive now clothes and chastity devices.
+01.02.2025 16:28:39_17²MainText²Chastity.. why.. ?
+01.02.2025 16:28:39_18²MainText²Please follow me now.
+01.02.2025 16:28:39_19²MainText²I will now check your vaginal and anal orifice.
+01.02.2025 16:28:39_20²MainText²Ohhhnngg...
+01.02.2025 16:45:18_0²MainText²Mhnfg.. please.. deep...er...
+01.02.2025 16:45:18_1²MainText²To. mhngg.. the couch ?
+01.02.2025 16:28:39_22²MainText²Please do not sit down , we need to equip you with the devices first.
+01.02.2025 16:28:39_23²MainText²Chastity.. tempting.. but.. i am already dripping as i am now.
+01.02.2025 16:28:39_24²MainText²Ahh my.. ass... please.. not my ass...
+01.02.2025 16:28:39_25²MainText²I am very sorry, this is a must for the comming tests.
+01.02.2025 16:28:39_26²MainText²Amhnggff.... nhnnn...
+01.02.2025 16:28:39_27²MainText²Your sensitivity will give us very good test results.
+01.02.2025 16:28:39_28²MainText²Now i will equip you with the holding belt for the device.
+01.02.2025 16:28:39_29²MainText²Mhnfg.. a chastity belt ?
+01.02.2025 16:28:39_30²MainText²Yes!
+01.02.2025 16:28:39_31²MainText²So tight...
+01.02.2025 16:28:39_32²MainText²We are nearly done, please be patient.
+01.02.2025 16:28:39_33²MainText²Mhfng.. ahh....
+01.02.2025 16:28:39_34²MainText²Bnow i will attach the second generation of external stimulation device.
+01.02.2025 16:28:39_35²MainText²What do you actually mean.. by... 
+01.02.2025 16:28:39_36²MainText²My god,.. please.. not the strap on again.
+01.02.2025 16:28:39_37²MainText²No.. i am a girl!
+01.02.2025 16:28:39_38²MainText²I am very sorry, but this device is an integral part of the test.
+01.02.2025 16:28:39_39²MainText²Don't touch it.. please.. mhnffg....
+01.02.2025 16:30:04_0²MainText²...
+01.02.2025 16:30:04_1²MainText²The device is now equipped.
+01.02.2025 16:30:04_2²MainText²But why.. why me...
+02.02.2025 11:16:25_0²MainText²Your body is nerly perfect , very sensitive. It will yield very clear test data for us.
+02.02.2025 11:16:25_1²MainText²No, i am a girl.. i do not want to have a penis. I feel everything.. both holes are full and.. this this thing.. is... mhnfff...
+02.02.2025 11:16:25_2²MainText²This is only a temporal attachment, once the tests are concluded , you may detach it.
+02.02.2025 11:16:25_3²MainText²Gynoid Luca is aware of your current state and will control the tests in your usual environment at the development office.
+02.02.2025 11:16:25_4²MainText²But, we need do several tests before we can bring you back to the development office.
+02.02.2025 11:16:25_5²MainText²First is a test of the anal and vaginal dildo inside of you.
+02.02.2025 11:16:25_6²MainText²No  please do not make them... mhnaaa....
+02.02.2025 11:16:25_7²MainText²Ahh.. bot.. both.. mhnaaa...
+02.02.2025 11:16:25_8²MainText²I.. i want too!
+02.02.2025 11:16:25_9²MainText²Mhnfg.. ahhh...
+02.02.2025 11:16:25_10²MainText²Mhnggfaaa...
+02.02.2025 11:16:25_11²MainText²No,. mhnaaano.....
+02.02.2025 11:16:25_12²MainText²Amhngga.....
+02.02.2025 11:16:25_13²MainText²I.. i  can not.. not... mhnaaa...
+02.02.2025 11:16:25_14²MainText²AAAHHNNNNNN....
+02.02.2025 11:16:25_15²MainText²....
+02.02.2025 11:16:25_16²MainText²So fast... ?
+02.02.2025 11:16:25_17²MainText²She could not take the stimulation ?
+02.02.2025 11:16:25_18²MainText²oh.. what...
+02.02.2025 11:16:25_19²MainText²Excellent sensitivity, direct reaction and immediate results.
+02.02.2025 11:16:25_20²MainText²The suction test device is ready , Gynoid Agano.
+02.02.2025 11:16:25_21²MainText²Very good, this will be our second test later. For now lady |LastUsedCharName3rdPer| needs to rest.
+02.02.2025 11:16:25_22²MainText²Lady |LastUsedCharName3rdPer|, i will now release the restraints.
+02.02.2025 11:16:25_23²MainText²S..sure..mhnnf....
+02.02.2025 11:16:25_24²MainText²hnff...
+02.02.2025 11:16:25_25²MainText²Can i really rest a bit ?
+02.02.2025 11:16:25_26²MainText²Of course.
+02.02.2025 11:16:25_27²MainText²Please follow me.
+02.02.2025 11:16:25_28²MainText²oh.. i feel.. weird...
+02.02.2025 11:16:25_29²MainText²You are really very sensitive, |LastUsedCharName3rdPer|. I wish i would be.
+02.02.2025 11:16:25_30²MainText²Are you sure.. i feel so .. weak.. 
+02.02.2025 11:16:25_31²MainText²What is wrong with that ?
+02.02.2025 11:16:25_32²MainText²Do you want to play the hero and fight your way out of here ?
+02.02.2025 11:16:25_33²MainText²True, i rather be the damsel to be rescued.
+02.02.2025 11:16:25_34²MainText²You know, that this is a pipe dream.
+02.02.2025 11:16:25_35²MainText²I know.. i know..
+02.02.2025 11:16:25_36²MainText²Do you.. also feel it inside ?
+02.02.2025 11:16:25_37²MainText²Of course, both holes.
+02.02.2025 11:16:25_38²MainText²Yes.. both..
+02.02.2025 11:16:25_39²MainText²...
+02.02.2025 11:16:25_40²MainText²Mhnfgg....
+02.02.2025 11:16:25_41²MainText²mhnfgg...
+02.02.2025 11:16:25_42²MainText²What.. why ?
+02.02.2025 11:16:25_43²MainText²Why not... i feel like i want this. My holes are plugged and.. they are not vibrating or anything.
+02.02.2025 11:16:25_44²MainText²I just want them to do something.
+02.02.2025 11:16:25_45²MainText²I am sorry, but currently we both need you in a higher aroused state.
+02.02.2025 11:45:24_0²MainText²I promise i will not climax.
+02.02.2025 11:45:24_1²MainText²I am very sorry, but for now the stimulators will not be used to create additional pleasure.
+02.02.2025 11:45:24_2²MainText²Mhnfg.. i cna not even touch my tits...
+02.02.2025 11:45:24_3²MainText²it is okay.. we stil have our mouths.
+02.02.2025 11:45:24_4²MainText²Yes, can i give |LastUsedCharName3rdPer| a blowjob ?
+02.02.2025 11:45:24_5²MainText²What ?
+02.02.2025 11:45:24_6²MainText²While a suction test is scheduled, we need static test parameters for this test. Therfore we are not able to use organic stimulations, i am sorry.
+02.02.2025 11:45:24_7²MainText²Mhnfg...
+02.02.2025 11:45:24_8²MainText²Ivy... we..
+02.02.2025 11:45:24_9²MainText²I also fucked you with that strap on. Would  only be fair.
+02.02.2025 11:45:24_10²MainText²That was.. something else.
+02.02.2025 11:45:24_11²MainText²Lady Alexia and Lady Ivy, i appreciate your enthusiasm, but it is for the best we prepare you two for the transport.
+02.02.2025 11:45:24_12²MainText²Gynoid Yahagi , please lead them down into the lobby and prepare them for transport as well as the first steps of domination training.
+02.02.2025 11:45:24_13²MainText²Of course, Lady Alexia and Lady Ivy. Please follow me.
+02.02.2025 11:45:24_14²MainText²Domination training ?
+02.02.2025 11:45:24_15²MainText²Yes , the first steps are very important. Now , please follow me.
+02.02.2025 12:32:26_0²MainText²What about |LastUsedCharName3rdPer| ?
+02.02.2025 12:32:26_1²MainText²She will follow you , once we are done with the test.
+02.02.2025 11:45:24_16²MainText²Shall we Ivy ?
+02.02.2025 11:45:24_17²MainText²Yes!
+02.02.2025 12:32:26_2²MainText²What.. what about me.. what test ?
+02.02.2025 13:27:32_0²MainText²We need you to use one more test tool before you may go back to the development office.
+02.02.2025 13:27:32_1²MainText²Please do not worry, this is only a quick stimulation test for the external stimulation device.
+02.02.2025 13:27:32_2²MainText²O.. okay...
+02.02.2025 13:27:32_3²MainText²Can you stand up ?
+02.02.2025 13:27:32_4²MainText²Y..es.. 
+02.02.2025 13:27:32_5²MainText²...
+02.02.2025 13:27:32_6²MainText²Very good, please follow me to the test device.
+02.02.2025 13:27:32_7²MainText²Okay.
+02.02.2025 13:27:32_8²MainText²... This.. is...
+02.02.2025 13:27:32_9²MainText²This device represents a suction test device in the form of a female mouth.
+02.02.2025 13:27:32_10²MainText²I can asure that this device will make penetration very arousing and stimulating.
+02.02.2025 13:27:32_11²MainText²S..sure... it really looks like a mouth i have to say.
+02.02.2025 13:27:32_12²MainText²Please align your external stimulation device with the opening.
+02.02.2025 13:27:32_13²MainText²I.. i wonder...
+02.02.2025 13:27:32_14²MainText²Okay..
+02.02.2025 13:27:32_15²MainText²...
+02.02.2025 13:27:32_16²MainText²Ohh.. this feels.. good..
+02.02.2025 13:27:32_17²MainText²Of course, this is the goal of this device as well as data gathering.
+02.02.2025 13:27:32_18²MainText²Please insert and push your external stimulation device in and out of the device now.
+02.02.2025 13:27:32_19²MainText²You mean.. i need to fuck it ?
+02.02.2025 13:27:32_20²MainText²Yes.
+02.02.2025 13:27:32_21²MainText²Mhnfg.. ahh.. yes...
+02.02.2025 13:27:32_22²MainText²oh.. that feels.. ahhh..
+02.02.2025 13:27:32_23²MainText²The suction.. i... mhnaa...
+02.02.2025 13:27:32_24²MainText²I lvoe how it sucks.. and.. mhnn...
+02.02.2025 13:27:32_25²MainText²Yes.. this bitch... yes... 
+02.02.2025 13:27:32_26²MainText²Ahhmhnn..
+02.02.2025 13:27:32_27²MainText²Now, please increase the pace until climax is reached.
+02.02.2025 13:27:32_28²MainText²Fuck yes... yes....
+02.02.2025 13:27:32_29²MainText²Mhnfg.. ahh...
+02.02.2025 13:27:32_30²MainText²Suck you bitch...
+02.02.2025 13:27:32_31²MainText²Yes.. yes.. ahnn...
+02.02.2025 13:27:32_32²MainText²The vacuum.. i... love it...
+02.02.2025 13:27:32_33²MainText²I.. can not.. yes.. yes.. i....
+02.02.2025 13:27:32_34²MainText²AAAHNNNNNNN!
+02.02.2025 13:27:32_35²MainText²Mhnfg.. ahh...
+02.02.2025 13:27:32_36²MainText²I.. feel... so.. weak... so...
+02.02.2025 13:27:32_37²MainText²...
+02.02.2025 13:27:32_38²MainText²ugf.. uff.... this... is...
+02.02.2025 13:27:32_39²MainText²This was rather unexpected.
+02.02.2025 13:27:32_40²MainText²But we gathered enough data and the external stimulation device is working properly.
+02.02.2025 13:27:32_41²MainText²...
+02.02.2025 13:27:32_42²MainText²Let me help you up.
+02.02.2025 13:27:32_43²MainText²I feel so .. weak... and...
+02.02.2025 13:27:32_44²MainText²This may be due to the higher sensivity of your body as well as the fact that your body wants to submit, be weak and to obey.
+02.02.2025 13:27:32_45²MainText²Currently we need a more dominant testsubject, please try to fit into the current testsubject role given.
+02.02.2025 13:27:32_46²MainText²But.. but.. i am a girl...
+02.02.2025 13:27:32_47²MainText²We are aware and will support you at every step of the way. Guidiance from Gynoid Luca will be given later as well as submissive and dominant training.
+09.02.2025 11:25:13_0²MainText²For now , could you please describe what you have felt during the penetration ?
+09.02.2025 11:25:13_1²MainText²it felt.. weird.. like i was the one inserting it and at the same time i was the one receiveing the hard rod inside of me.
+09.02.2025 11:25:13_2²MainText²Very good, the external stimulation attachment is the second generation of the strap on stimulator you may have tested before. It Features an enhanced internal stimulation mechanism for both orifices.
+09.02.2025 11:25:13_3²MainText²Further tests are required, but according to our plan. These tests will be done in the development office.
+09.02.2025 11:25:13_4²MainText²Please steady yourself for now, i will prepare your new attire. A special strap suit.
+09.02.2025 14:07:52_0²MainText²New clothes ?
+09.02.2025 14:07:52_1²MainText²Yes, Pleae sit down now and wit for me.
+09.02.2025 14:07:52_2²MainText²Okay...
+09.02.2025 14:07:52_3²MainText²...
+09.02.2025 14:07:52_4²MainText²Why.. why did i say yes to this... i.. have a penis attached to my groin now. And i can even feel this.. this.. thing...
+09.02.2025 14:07:52_5²MainText²For sure i will need to use it.. to... be inside Ivy and... Alexia.
+09.02.2025 14:07:52_6²MainText²I will have to... mhnf...
+09.02.2025 14:07:52_7²MainText²...
+09.02.2025 14:07:52_8²MainText²Please stand up , lady |LastUsedCharName3rdPer|.
+09.02.2025 14:07:52_9²MainText²Y..yes..
+09.02.2025 14:07:52_10²MainText²...
+09.02.2025 14:07:52_11²MainText²I will now help you dress into your new attire. Then we will walk downstairs where Lady Ivy and Alexia are already waiting for you.
+09.02.2025 14:07:52_12²MainText²Are we getting transported back with the... things again ?
+09.02.2025 14:07:52_13²MainText²This is yet to be discussed. Now please turn around.
+09.02.2025 14:07:52_14²MainText²Fine...
+09.02.2025 14:07:52_15²MainText²I will also restrain you with a armbinder now in addition to your new attire.
+09.02.2025 14:07:52_16²MainText²Wait.. why ?
+09.02.2025 14:07:52_17²MainText²I will explain later, now be obiedient.
+09.02.2025 14:07:52_18²MainText²mhnfg....
+09.02.2025 14:07:52_19²MainText²This strap suit will make your bare breast stand out and will make you, and others, aware of your human female beauty.
+09.02.2025 14:07:52_20²MainText²A chastity bra will not be provided to entice Lady Ivy and Lady Alexia to see you as the dominant testsubject. 
+09.02.2025 14:07:52_21²MainText²Furthermore, i will now attach nipple vibrators for further stimulation.
+09.02.2025 14:07:52_22²MainText²wait.. please..mhjnnfff....
+09.02.2025 14:07:52_23²MainText²Mhnfg...
+09.02.2025 14:07:52_24²MainText²Now , please follow me downstairs.
+09.02.2025 14:07:52_25²MainText²...
+09.02.2025 15:22:19_0²MainText²I wonder why they...
+09.02.2025 15:22:19_1²MainText²|LastUsedCharName3rdPer|!
+09.02.2025 15:22:19_2²MainText²|LastUsedCharName3rdPer| I see they... wait. why do you have no chastity bra ?
+09.02.2025 15:22:19_3²MainText²Lady |LastUsedCharName3rdPer| i seen as the dominant testsubject for this testrun. her nipples and breasts will stay exposed to manifest a certain dominance above the submissive testsubjects.
+09.02.2025 15:22:19_4²MainText²This role may switch during testing when needed.
+09.02.2025 15:22:19_5²MainText²How unfair.
+09.02.2025 15:22:19_6²MainText²Yes, but.. it has a certain charm to it , i have to say.
+09.02.2025 15:22:19_7²MainText²Us being the submissive testsubjects ?
+09.02.2025 15:22:19_8²MainText²Yes, she has the penis.
+09.02.2025 15:22:19_9²MainText²True!
+09.02.2025 15:22:19_10²MainText²Hey.. it is not like i want this thing.
+09.02.2025 15:22:19_11²MainText²It suits you well!
+12.02.2025 13:33:33_0²MainText²Mhff...
+12.02.2025 13:33:33_1²MainText²Oh, please do not be upset. It is not like i can change anything about it.
+12.02.2025 13:33:33_2²MainText²So.. ahm.. we are gettint carried back now ?
+12.02.2025 13:33:33_3²MainText²No, we pledge to walk this time.
+12.02.2025 13:33:33_4²MainText²Thank god.
+12.02.2025 13:33:33_5²MainText²Did you finished your discussion ?
+12.02.2025 13:33:33_6²MainText²Yes.
+12.02.2025 13:33:33_7²MainText²Good, then please stand up now. As Lady Ivy already mentioned , we will walk you back to the development office.
+12.02.2025 13:33:33_8²MainText²This was a wish from Lady Ivy and Lady Alexia. Do you agree with this proposition , lady |LastUsedCharName3rdPer| ?
+12.02.2025 13:33:33_9²MainText²Yes , yes!
+12.02.2025 13:33:33_10²MainText²Good, stand up now and form a line outsite.
+12.02.2025 13:33:33_11²MainText²...
+12.02.2025 13:33:33_12²MainText²Chained together... once more.
+12.02.2025 13:33:33_13²MainText²You did this before ?
+12.02.2025 13:33:33_14²MainText²Yes, when we were guided from the hydroponics to the development office.
+12.02.2025 13:33:33_15²MainText²Be happy that you are not being gagged and you would have to suck on a thick dildo all the time.
+12.02.2025 13:33:33_16²MainText²Why should i not be happy about that ?
+12.02.2025 13:33:33_17²MainText²Alexia... you wildcard!
+12.02.2025 13:33:33_18²MainText²Just teasing.
+12.02.2025 13:33:33_19²MainText²You are all ready now for transport. We will start the walk and stop at several points on the way to ensure safety and a comfortable travel.
