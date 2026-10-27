@@ -1,0 +1,10 @@
+Alles klar! Damit du die Zahl (hier im Beispiel 3300) direkt in die Formel schreiben kannst und jedes Byte in einer eigenen Zelle landet, gibt es zwei Wege – je nachdem, wie neu dein Excel ist.
+Weg 1: Der elegante Trick (für neueres Excel / Office 365)
+
+Du kopierst diese eine Formel in eine Zelle (z.B. in A1). Durch die geschweiften Klammern {1.3.5.7} am Ende der Formel füllt Excel automatisch die Zelle selbst und die 3 Zellen rechts daneben (also A1, B1, C1 und D1) mit den 4 Bytes aus!
+
+(Wichtig: Die 3 Zellen rechts daneben müssen leer sein, sonst steht dort #ÜBERLAUF!).
+
+=LET(Zahl; 3300; Hex; WENN(Zahl=0;"00000000";DEZINHEX(WENN(Zahl<0;128;0)+GANZZAHL((GANZZAHL(LOG(ABS(Zahl);2))+127)/2);2)&DEZINHEX(REST(GANZZAHL(LOG(ABS(Zahl);2))+127;2)*8388608+RUNDEN((ABS(Zahl)/(2^GANZZAHL(LOG(ABS(Zahl);2)))-1)*8388608;0);6)); HEXINDEZ(TEIL(Hex; {1.3.5.7}; 2)))
+
+(Wenn die Werte stattdessen untereinander in 4 Zeilen stehen sollen, ersetze hinten {1.3.5.7} einfach durch {1;3;5;7} mit Semikolon).
